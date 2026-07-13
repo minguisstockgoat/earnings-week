@@ -1,4 +1,4 @@
-﻿import type {Metadata} from "next";
+import type {Metadata} from "next";
 import "./globals.css";
-export const metadata:Metadata={title:"Earnings Week | 주간 기업 실적 캘린더",description:"2026년 7월 13일부터 19일까지 주요 미국 기업의 실적 발표 일정과 예상 EPS를 확인하세요.",icons:{icon:"/favicon.svg",shortcut:"/favicon.svg"}};
+export const metadata:Metadata={title:"실적 발표 캘린더 | 미국·일본",description:"미국과 일본 기업의 주간 실적 발표 일정을 확인하는 간결한 캘린더입니다.",icons:{icon:"/favicon.svg",shortcut:"/favicon.svg"}};
 export default function RootLayout({children}:Readonly<{children:React.ReactNode}>){return <html lang="ko"><body>{children}</body></html>}

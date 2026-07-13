@@ -1,0 +1,1295 @@
+{
+  "source": "일본실적일정_20260713.xlsx",
+  "rows": [
+    {
+      "date": "2026-07-15",
+      "weekday": "수",
+      "company": "니덱",
+      "code": "6594",
+      "sector": "전자부품",
+      "previousDate": "2025-11-14",
+      "previousSurprise": -19.5,
+      "featured": true
+    },
+    {
+      "date": "2026-07-23",
+      "weekday": "목",
+      "company": "디스코",
+      "code": "6146",
+      "sector": "반도체장비",
+      "previousDate": "2026-04-22",
+      "previousSurprise": 17.9,
+      "featured": false
+    },
+    {
+      "date": "2026-07-24",
+      "weekday": "금",
+      "company": "주가이제약",
+      "code": "4519",
+      "sector": "제약",
+      "previousDate": "2026-04-24",
+      "previousSurprise": 2.2,
+      "featured": false
+    },
+    {
+      "date": "2026-07-24",
+      "weekday": "금",
+      "company": "아사히그룹",
+      "code": "2502",
+      "sector": "음료",
+      "previousDate": "2026-07-08",
+      "previousSurprise": -40.7,
+      "featured": false
+    },
+    {
+      "date": "2026-07-24",
+      "weekday": "금",
+      "company": "신에쓰화학",
+      "code": "4063",
+      "sector": "반도체소재",
+      "previousDate": "2026-04-28",
+      "previousSurprise": -10.9,
+      "featured": true
+    },
+    {
+      "date": "2026-07-27",
+      "weekday": "월",
+      "company": "캐논",
+      "code": "7751",
+      "sector": "정밀",
+      "previousDate": "2026-04-23",
+      "previousSurprise": -27.9,
+      "featured": false
+    },
+    {
+      "date": "2026-07-28",
+      "weekday": "화",
+      "company": "JPX",
+      "code": "8697",
+      "sector": "거래소",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 2.4,
+      "featured": false
+    },
+    {
+      "date": "2026-07-28",
+      "weekday": "화",
+      "company": "캡콤",
+      "code": "9697",
+      "sector": "게임",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -14.7,
+      "featured": false
+    },
+    {
+      "date": "2026-07-28",
+      "weekday": "화",
+      "company": "키엔스",
+      "code": "6861",
+      "sector": "FA",
+      "previousDate": "2026-04-24",
+      "previousSurprise": 16.8,
+      "featured": false
+    },
+    {
+      "date": "2026-07-28",
+      "weekday": "화",
+      "company": "SCREEN",
+      "code": "7735",
+      "sector": "반도체장비",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 13.1,
+      "featured": true
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "노무라",
+      "code": "8604",
+      "sector": "증권",
+      "previousDate": "2026-04-24",
+      "previousSurprise": -28.7,
+      "featured": true
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "히타치",
+      "code": "6501",
+      "sector": "전자",
+      "previousDate": "2026-04-27",
+      "previousSurprise": -3.4,
+      "featured": true
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "ANA",
+      "code": "9202",
+      "sector": "항공",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 2.8,
+      "featured": false
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "NEC",
+      "code": "6701",
+      "sector": "IT",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 6.7,
+      "featured": false
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "코마츠",
+      "code": "6301",
+      "sector": "기계",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 7.8,
+      "featured": true
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "소시오넥스트",
+      "code": "6526",
+      "sector": "반도체",
+      "previousDate": "",
+      "previousSurprise": null,
+      "featured": false
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "어드밴테스트",
+      "code": "6857",
+      "sector": "반도체장비",
+      "previousDate": "2026-04-27",
+      "previousSurprise": 27.5,
+      "featured": true
+    },
+    {
+      "date": "2026-07-29",
+      "weekday": "수",
+      "company": "도쿄전력",
+      "code": "9501",
+      "sector": "유틸",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 381,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "도요타자동직기",
+      "code": "6201",
+      "sector": "자동차부품",
+      "previousDate": "2019-04-26",
+      "previousSurprise": 4.5,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "미즈호",
+      "code": "8411",
+      "sector": "은행",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 38.2,
+      "featured": true
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "다케다",
+      "code": "4502",
+      "sector": "제약",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 36.2,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "히타치건기",
+      "code": "6305",
+      "sector": "기계",
+      "previousDate": "2026-04-24",
+      "previousSurprise": -19.8,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "NRI",
+      "code": "4307",
+      "sector": "IT서비스",
+      "previousDate": "2026-04-24",
+      "previousSurprise": -449.9,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "JT",
+      "code": "2914",
+      "sector": "담배",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 15.6,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "도쿄일렉트론",
+      "code": "8035",
+      "sector": "반도체장비",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 14.6,
+      "featured": true
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "오리엔탈랜드",
+      "code": "4661",
+      "sector": "엔터",
+      "previousDate": "2026-04-28",
+      "previousSurprise": -16.1,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "시오노기",
+      "code": "4507",
+      "sector": "제약",
+      "previousDate": "2026-01-30",
+      "previousSurprise": 28.2,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "미쓰이스미토모트러스트",
+      "code": "8309",
+      "sector": "은행",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 1.7,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "파나소닉",
+      "code": "6752",
+      "sector": "전자",
+      "previousDate": "2026-05-12",
+      "previousSurprise": -34.9,
+      "featured": true
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "후지쯔",
+      "code": "6702",
+      "sector": "IT",
+      "previousDate": "2026-04-28",
+      "previousSurprise": -18.1,
+      "featured": false
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "교세라",
+      "code": "6971",
+      "sector": "전자",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 166,
+      "featured": true
+    },
+    {
+      "date": "2026-07-30",
+      "weekday": "목",
+      "company": "도쿄가스",
+      "code": "9531",
+      "sector": "유틸",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 68.6,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "아사히카세이",
+      "code": "3407",
+      "sector": "화학",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 32.7,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "미쓰비시케미컬",
+      "code": "4188",
+      "sector": "화학",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -75.2,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "소니",
+      "code": "6758",
+      "sector": "전자",
+      "previousDate": "2026-05-08",
+      "previousSurprise": -59.4,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "미쓰비시전기",
+      "code": "6503",
+      "sector": "전자",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 33.5,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "스미토모전기",
+      "code": "5802",
+      "sector": "전선",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 36.8,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "SMFG",
+      "code": "8316",
+      "sector": "은행",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -13.7,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "스미토모상사",
+      "code": "8053",
+      "sector": "상사",
+      "previousDate": "2026-05-01",
+      "previousSurprise": 25.3,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "소지츠",
+      "code": "2768",
+      "sector": "상사",
+      "previousDate": "2026-05-01",
+      "previousSurprise": -40.5,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "HOYA",
+      "code": "7741",
+      "sector": "헬스케어",
+      "previousDate": "2026-04-30",
+      "previousSurprise": -7.3,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "다이이치산쿄",
+      "code": "4568",
+      "sector": "제약",
+      "previousDate": "2026-05-11",
+      "previousSurprise": -49.6,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "TDK",
+      "code": "6762",
+      "sector": "MLCC",
+      "previousDate": "2026-04-28",
+      "previousSurprise": -38.9,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "무라타",
+      "code": "6981",
+      "sector": "MLCC",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 25.2,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "키오시아",
+      "code": "285A",
+      "sector": "메모리",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 10.1,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "화낙",
+      "code": "6954",
+      "sector": "로봇FA",
+      "previousDate": "2026-04-24",
+      "previousSurprise": 13.8,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "아이신",
+      "code": "7259",
+      "sector": "자동차부품",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 75.5,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "JR동일본",
+      "code": "9020",
+      "sector": "운송",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 7.4,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "덴소",
+      "code": "6902",
+      "sector": "자동차부품",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 10.2,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "칸사이전력",
+      "code": "9503",
+      "sector": "유틸",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 21.2,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "JR도카이",
+      "code": "9022",
+      "sector": "운송",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 45.6,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "오츠카HD",
+      "code": "4578",
+      "sector": "제약",
+      "previousDate": "2026-04-28",
+      "previousSurprise": 38.8,
+      "featured": false
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "나브테스코",
+      "code": "6268",
+      "sector": "로봇FA",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 16.5,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "르네사스",
+      "code": "6723",
+      "sector": "반도체",
+      "previousDate": "2026-04-24",
+      "previousSurprise": -6.8,
+      "featured": true
+    },
+    {
+      "date": "2026-07-31",
+      "weekday": "금",
+      "company": "리소나",
+      "code": "8308",
+      "sector": "은행",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 18.4,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "미쓰이화학",
+      "code": "4183",
+      "sector": "화학",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -46.9,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "다이와증권",
+      "code": "8601",
+      "sector": "증권",
+      "previousDate": "2026-04-27",
+      "previousSurprise": 19.1,
+      "featured": true
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "닛산",
+      "code": "7201",
+      "sector": "자동차",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 22.2,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "이토추",
+      "code": "8001",
+      "sector": "상사",
+      "previousDate": "2026-05-01",
+      "previousSurprise": -5.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "에자이",
+      "code": "4523",
+      "sector": "제약",
+      "previousDate": "2026-05-15",
+      "previousSurprise": -179.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "마루베니",
+      "code": "8002",
+      "sector": "상사",
+      "previousDate": "2026-05-01",
+      "previousSurprise": -6.4,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "JAL",
+      "code": "9201",
+      "sector": "항공",
+      "previousDate": "2026-04-30",
+      "previousSurprise": 16.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "미쓰비시UFJ",
+      "code": "8306",
+      "sector": "은행",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 41.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "리코",
+      "code": "7752",
+      "sector": "정밀",
+      "previousDate": "2026-05-12",
+      "previousSurprise": -44,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "미쓰비시상사",
+      "code": "8058",
+      "sector": "상사",
+      "previousDate": "2026-05-01",
+      "previousSurprise": 10.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-03",
+      "weekday": "월",
+      "company": "미쓰비시자동차",
+      "code": "7211",
+      "sector": "자동차",
+      "previousDate": "2026-05-08",
+      "previousSurprise": -26.5,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "토요타",
+      "code": "7203",
+      "sector": "자동차",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 19.1,
+      "featured": true
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "미쓰이물산",
+      "code": "8031",
+      "sector": "상사",
+      "previousDate": "2026-05-01",
+      "previousSurprise": -3.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "미쓰비시중공업",
+      "code": "7011",
+      "sector": "기계",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 38,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "쿠보타",
+      "code": "6326",
+      "sector": "기계",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 33.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "다이킨",
+      "code": "6367",
+      "sector": "기계",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 25.9,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "소프트뱅크",
+      "code": "9434",
+      "sector": "통신",
+      "previousDate": "2026-05-11",
+      "previousSurprise": -18.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "닛신식품",
+      "code": "2897",
+      "sector": "식품",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -3.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-04",
+      "weekday": "화",
+      "company": "일본제철",
+      "code": "5401",
+      "sector": "철강",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 3561,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "니폰유센",
+      "code": "9101",
+      "sector": "해운",
+      "previousDate": "2026-02-04",
+      "previousSurprise": -28.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "킷코만",
+      "code": "2801",
+      "sector": "식품",
+      "previousDate": "2026-04-24",
+      "previousSurprise": 2.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "카오",
+      "code": "4452",
+      "sector": "생활용품",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 22.9,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "마쓰다",
+      "code": "7261",
+      "sector": "자동차",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 87.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "시세이도",
+      "code": "4911",
+      "sector": "화장품",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 47,
+      "featured": true
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "THK",
+      "code": "6481",
+      "sector": "로봇FA",
+      "previousDate": "2026-05-11",
+      "previousSurprise": -10.6,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "타이요유덴",
+      "code": "6976",
+      "sector": "MLCC",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 45.1,
+      "featured": true
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "스즈키",
+      "code": "7269",
+      "sector": "자동차",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 22.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "아스텔라스",
+      "code": "4503",
+      "sector": "제약",
+      "previousDate": "2026-04-27",
+      "previousSurprise": 13.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "JFE",
+      "code": "5411",
+      "sector": "철강",
+      "previousDate": "2026-05-08",
+      "previousSurprise": -76.2,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "IHI",
+      "code": "7013",
+      "sector": "기계",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 165.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "로옴",
+      "code": "6963",
+      "sector": "반도체",
+      "previousDate": "2026-02-04",
+      "previousSurprise": -17.6,
+      "featured": false
+    },
+    {
+      "date": "2026-08-05",
+      "weekday": "수",
+      "company": "SUBARU",
+      "code": "7270",
+      "sector": "자동차",
+      "previousDate": "2026-05-15",
+      "previousSurprise": -80.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "니토리",
+      "code": "9843",
+      "sector": "유통",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 16.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "아지노모토",
+      "code": "2802",
+      "sector": "식품",
+      "previousDate": "2026-05-07",
+      "previousSurprise": 12.2,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "SUMCO",
+      "code": "3436",
+      "sector": "반도체소재",
+      "previousDate": "2026-05-12",
+      "previousSurprise": -89.7,
+      "featured": true
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "반다이남코",
+      "code": "7832",
+      "sector": "게임",
+      "previousDate": "2026-02-05",
+      "previousSurprise": -8.4,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "레이저텍",
+      "code": "6920",
+      "sector": "반도체장비",
+      "previousDate": "2026-04-30",
+      "previousSurprise": -29.5,
+      "featured": true
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "니콘",
+      "code": "7731",
+      "sector": "정밀",
+      "previousDate": "2026-05-08",
+      "previousSurprise": -68.4,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "옴론",
+      "code": "6645",
+      "sector": "FA",
+      "previousDate": "2026-02-05",
+      "previousSurprise": -52.6,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "스미토모부동산",
+      "code": "8830",
+      "sector": "부동산",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -5.5,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "닌텐도",
+      "code": "7974",
+      "sector": "게임",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 6.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "소뱅그룹",
+      "code": "9984",
+      "sector": "투자",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 491.3,
+      "featured": true
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "혼다",
+      "code": "7267",
+      "sector": "자동차",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 22.5,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "미쓰비시머티리얼",
+      "code": "5711",
+      "sector": "금속",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 136.2,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "아마다",
+      "code": "6113",
+      "sector": "기계",
+      "previousDate": "2026-05-14",
+      "previousSurprise": -30.9,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "토레이",
+      "code": "3402",
+      "sector": "화학",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 37.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "오릭스",
+      "code": "8591",
+      "sector": "금융",
+      "previousDate": "2026-05-11",
+      "previousSurprise": -3.6,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "후루카와전기",
+      "code": "5801",
+      "sector": "전선",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 104.9,
+      "featured": true
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "후지쿠라",
+      "code": "5803",
+      "sector": "전선",
+      "previousDate": "2026-05-14",
+      "previousSurprise": -10.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "NTT",
+      "code": "9432",
+      "sector": "통신",
+      "previousDate": "2026-05-08",
+      "previousSurprise": 3.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "후지필름",
+      "code": "4901",
+      "sector": "화학",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 13.5,
+      "featured": false
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
+      "company": "레조낙",
+      "code": "4004",
+      "sector": "화학",
+      "previousDate": "2026-02-13",
+      "previousSurprise": -16.5,
+      "featured": true
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "유초은행",
+      "code": "7182",
+      "sector": "은행",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 15.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "올림푸스",
+      "code": "7733",
+      "sector": "정밀",
+      "previousDate": "2026-05-12",
+      "previousSurprise": 143.9,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "KDDI",
+      "code": "9433",
+      "sector": "통신",
+      "previousDate": "2026-05-12",
+      "previousSurprise": -69.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "미쓰이부동산",
+      "code": "8801",
+      "sector": "부동산",
+      "previousDate": "2026-06-24",
+      "previousSurprise": -2.2,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "미쓰비시지쇼",
+      "code": "8802",
+      "sector": "부동산",
+      "previousDate": "2026-05-13",
+      "previousSurprise": -8.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "일본우정",
+      "code": "6178",
+      "sector": "금융",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 50,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "인펙스",
+      "code": "1605",
+      "sector": "에너지",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 2.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "에네오스",
+      "code": "5020",
+      "sector": "에너지",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 161.6,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "테루모",
+      "code": "4543",
+      "sector": "의료기기",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 19.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "기린",
+      "code": "2503",
+      "sector": "음료",
+      "previousDate": "2026-05-14",
+      "previousSurprise": -11.4,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "하모닉드라이브",
+      "code": "6324",
+      "sector": "로봇FA",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 15.1,
+      "featured": true
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "미쓰이금속",
+      "code": "5706",
+      "sector": "금속",
+      "previousDate": "2026-05-13",
+      "previousSurprise": 48.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "상선미쓰이",
+      "code": "9104",
+      "sector": "해운",
+      "previousDate": "2026-04-30",
+      "previousSurprise": -17.8,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "리크루트",
+      "code": "6098",
+      "sector": "서비스",
+      "previousDate": "2026-05-15",
+      "previousSurprise": 2.7,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "브리지스톤",
+      "code": "5108",
+      "sector": "자동차부품",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 17.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "가와사키중공업",
+      "code": "7012",
+      "sector": "기계",
+      "previousDate": "2026-02-09",
+      "previousSurprise": 135,
+      "featured": true
+    },
+    {
+      "date": "2026-08-07",
+      "weekday": "금",
+      "company": "SMC",
+      "code": "6273",
+      "sector": "로봇FA",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 10.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-10",
+      "weekday": "월",
+      "company": "스퀘어에닉스",
+      "code": "9684",
+      "sector": "게임",
+      "previousDate": "2026-05-14",
+      "previousSurprise": 13.2,
+      "featured": false
+    },
+    {
+      "date": "2026-08-10",
+      "weekday": "월",
+      "company": "스미토모금속광산",
+      "code": "5713",
+      "sector": "금속",
+      "previousDate": "2026-05-11",
+      "previousSurprise": 45,
+      "featured": false
+    },
+    {
+      "date": "2026-08-12",
+      "weekday": "수",
+      "company": "도쿄해상",
+      "code": "8766",
+      "sector": "보험",
+      "previousDate": "2024-02-14",
+      "previousSurprise": 72.1,
+      "featured": false
+    },
+    {
+      "date": "2026-08-14",
+      "weekday": "금",
+      "company": "MS&AD",
+      "code": "8725",
+      "sector": "보험",
+      "previousDate": "2026-05-20",
+      "previousSurprise": -12.3,
+      "featured": false
+    },
+    {
+      "date": "2026-08-14",
+      "weekday": "금",
+      "company": "SOMPO",
+      "code": "8630",
+      "sector": "보험",
+      "previousDate": "2026-05-20",
+      "previousSurprise": -30.6,
+      "featured": false
+    }
+  ]
+}
