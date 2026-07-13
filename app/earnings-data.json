@@ -1,0 +1,348 @@
+{
+  "source": {
+    "name": "Nasdaq Earnings Calendar",
+    "url": "https://www.nasdaq.com/market-activity/earnings"
+  },
+  "updatedAt": "2026-07-13T06:23:49.674Z",
+  "weekStart": "2026-07-13",
+  "weekEnd": "2026-07-19",
+  "days": [
+    {
+      "date": "2026-07-13",
+      "day": 13,
+      "weekday": "월"
+    },
+    {
+      "date": "2026-07-14",
+      "day": 14,
+      "weekday": "화"
+    },
+    {
+      "date": "2026-07-15",
+      "day": 15,
+      "weekday": "수"
+    },
+    {
+      "date": "2026-07-16",
+      "day": 16,
+      "weekday": "목"
+    },
+    {
+      "date": "2026-07-17",
+      "day": 17,
+      "weekday": "금"
+    },
+    {
+      "date": "2026-07-18",
+      "day": 18,
+      "weekday": "토"
+    },
+    {
+      "date": "2026-07-19",
+      "day": 19,
+      "weekday": "일"
+    }
+  ],
+  "items": [
+    {
+      "date": "2026-07-13",
+      "day": 13,
+      "company": "FB Financial Corporation",
+      "ticker": "FBK",
+      "session": "장후",
+      "eps": "$1.14",
+      "marketCap": "$2,896,649,034",
+      "quarter": "Jun/2026",
+      "color": "#1D4ED8",
+      "featured": true
+    },
+    {
+      "date": "2026-07-13",
+      "day": 13,
+      "company": "Grupo Aeromexico, S.A.B. de C.V.",
+      "ticker": "AERO",
+      "session": "장후",
+      "eps": "($0.37)",
+      "marketCap": "$2,424,914,658",
+      "quarter": "Jun/2026",
+      "color": "#0F766E",
+      "featured": false
+    },
+    {
+      "date": "2026-07-13",
+      "day": 13,
+      "company": "TRX Gold Corporation",
+      "ticker": "TRX",
+      "session": "미정",
+      "eps": "$0.04",
+      "marketCap": "$255,340,415",
+      "quarter": "May/2026",
+      "color": "#B45309",
+      "featured": false
+    },
+    {
+      "date": "2026-07-13",
+      "day": 13,
+      "company": "GoldMining Inc.",
+      "ticker": "GLDG",
+      "session": "미정",
+      "eps": "($0.02)",
+      "marketCap": "$190,306,741",
+      "quarter": "May/2026",
+      "color": "#BE123C",
+      "featured": false
+    },
+    {
+      "date": "2026-07-13",
+      "day": 13,
+      "company": "Pineapple Financial Inc.",
+      "ticker": "PAPL",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$24,789,436",
+      "quarter": "May/2026",
+      "color": "#172554",
+      "featured": false
+    },
+    {
+      "date": "2026-07-14",
+      "day": 14,
+      "company": "J P Morgan Chase & Co",
+      "ticker": "JPM",
+      "session": "장전",
+      "eps": "$5.52",
+      "marketCap": "$898,895,695,396",
+      "quarter": "Jun/2026",
+      "color": "#1D4ED8",
+      "featured": true
+    },
+    {
+      "date": "2026-07-14",
+      "day": 14,
+      "company": "Bank of America Corporation",
+      "ticker": "BAC",
+      "session": "장전",
+      "eps": "$1.13",
+      "marketCap": "$420,472,996,072",
+      "quarter": "Jun/2026",
+      "color": "#0F766E",
+      "featured": false
+    },
+    {
+      "date": "2026-07-14",
+      "day": 14,
+      "company": "Goldman Sachs Group, Inc. (The)",
+      "ticker": "GS",
+      "session": "장전",
+      "eps": "$14.47",
+      "marketCap": "$311,518,986,353",
+      "quarter": "Jun/2026",
+      "color": "#B45309",
+      "featured": false
+    },
+    {
+      "date": "2026-07-14",
+      "day": 14,
+      "company": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "session": "장전",
+      "eps": "$1.73",
+      "marketCap": "$265,961,068,924",
+      "quarter": "Jun/2026",
+      "color": "#BE123C",
+      "featured": false
+    },
+    {
+      "date": "2026-07-14",
+      "day": 14,
+      "company": "Citigroup Inc.",
+      "ticker": "C",
+      "session": "장전",
+      "eps": "$2.72",
+      "marketCap": "$238,047,375,609",
+      "quarter": "Jun/2026",
+      "color": "#172554",
+      "featured": false
+    },
+    {
+      "date": "2026-07-15",
+      "day": 15,
+      "company": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "session": "장전",
+      "eps": "$7.98",
+      "marketCap": "$695,389,822,076",
+      "quarter": "Jun/2026",
+      "color": "#1D4ED8",
+      "featured": true
+    },
+    {
+      "date": "2026-07-15",
+      "day": 15,
+      "company": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "session": "장전",
+      "eps": "$2.85",
+      "marketCap": "$623,709,917,186",
+      "quarter": "Jun/2026",
+      "color": "#0F766E",
+      "featured": false
+    },
+    {
+      "date": "2026-07-15",
+      "day": 15,
+      "company": "Morgan Stanley",
+      "ticker": "MS",
+      "session": "장전",
+      "eps": "$2.89",
+      "marketCap": "$350,362,276,400",
+      "quarter": "Jun/2026",
+      "color": "#B45309",
+      "featured": false
+    },
+    {
+      "date": "2026-07-15",
+      "day": 15,
+      "company": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "session": "장전",
+      "eps": "$12.63",
+      "marketCap": "$158,288,993,904",
+      "quarter": "Jun/2026",
+      "color": "#BE123C",
+      "featured": false
+    },
+    {
+      "date": "2026-07-15",
+      "day": 15,
+      "company": "Progressive Corporation (The)",
+      "ticker": "PGR",
+      "session": "미정",
+      "eps": "$4.56",
+      "marketCap": "$134,116,905,217",
+      "quarter": "Jun/2026",
+      "color": "#172554",
+      "featured": false
+    },
+    {
+      "date": "2026-07-16",
+      "day": 16,
+      "company": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "ticker": "TSM",
+      "session": "장전",
+      "eps": "$3.80",
+      "marketCap": "$2,266,295,182,852",
+      "quarter": "Jun/2026",
+      "color": "#1D4ED8",
+      "featured": true
+    },
+    {
+      "date": "2026-07-16",
+      "day": 16,
+      "company": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "session": "장전",
+      "eps": "$4.84",
+      "marketCap": "$392,027,776,319",
+      "quarter": "Jun/2026",
+      "color": "#0F766E",
+      "featured": false
+    },
+    {
+      "date": "2026-07-16",
+      "day": 16,
+      "company": "GE Aerospace",
+      "ticker": "GE",
+      "session": "장전",
+      "eps": "$1.86",
+      "marketCap": "$374,599,800,854",
+      "quarter": "Jun/2026",
+      "color": "#B45309",
+      "featured": false
+    },
+    {
+      "date": "2026-07-16",
+      "day": 16,
+      "company": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "session": "장후",
+      "eps": "$0.79",
+      "marketCap": "$317,788,964,908",
+      "quarter": "Jun/2026",
+      "color": "#BE123C",
+      "featured": false
+    },
+    {
+      "date": "2026-07-16",
+      "day": 16,
+      "company": "Abbott Laboratories",
+      "ticker": "ABT",
+      "session": "장전",
+      "eps": "$1.28",
+      "marketCap": "$164,427,093,298",
+      "quarter": "Jun/2026",
+      "color": "#172554",
+      "featured": false
+    },
+    {
+      "date": "2026-07-17",
+      "day": 17,
+      "company": "HDFC Bank Limited",
+      "ticker": "HDB",
+      "session": "미정",
+      "eps": "$0.38",
+      "marketCap": "$135,730,062,966",
+      "quarter": "Jun/2026",
+      "color": "#1D4ED8",
+      "featured": true
+    },
+    {
+      "date": "2026-07-17",
+      "day": 17,
+      "company": "ICICI Bank Limited",
+      "ticker": "IBN",
+      "session": "미정",
+      "eps": "$0.40",
+      "marketCap": "$103,893,455,295",
+      "quarter": "Jun/2026",
+      "color": "#0F766E",
+      "featured": false
+    },
+    {
+      "date": "2026-07-17",
+      "day": 17,
+      "company": "The Travelers Companies, Inc.",
+      "ticker": "TRV",
+      "session": "장전",
+      "eps": "$4.96",
+      "marketCap": "$71,763,330,994",
+      "quarter": "Jun/2026",
+      "color": "#B45309",
+      "featured": false
+    },
+    {
+      "date": "2026-07-17",
+      "day": 17,
+      "company": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "session": "장전",
+      "eps": "$1.08",
+      "marketCap": "$64,000,818,357",
+      "quarter": "Jun/2026",
+      "color": "#BE123C",
+      "featured": false
+    },
+    {
+      "date": "2026-07-17",
+      "day": 17,
+      "company": "Fifth Third Bancorp",
+      "ticker": "FITB",
+      "session": "장전",
+      "eps": "$0.98",
+      "marketCap": "$51,242,854,924",
+      "quarter": "Jun/2026",
+      "color": "#172554",
+      "featured": false
+    }
+  ]
+}

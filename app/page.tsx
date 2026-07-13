@@ -1,0 +1,25 @@
+"use client";
+import {useMemo,useState} from "react";
+import nasdaq from "./earnings-data.json";
+type Session="장전"|"장후"|"미정";
+type Item={date:string;day:number;company:string;ticker:string;session:Session;eps:string;marketCap:string;quarter:string;color:string;featured:boolean};
+const items=nasdaq.items as Item[];
+const short=(d:string)=>`${Number(d.slice(5,7))}.${Number(d.slice(8,10))}`;
+const dateLabel=(d:string)=>`${Number(d.slice(5,7))}월 ${Number(d.slice(8,10))}일`;
+export default function Home(){
+ const [date,setDate]=useState<string|"all">("all"),[session,setSession]=useState<Session|"전체">("전체"),[query,setQuery]=useState("");
+ const visible=useMemo(()=>{const q=query.trim().toLowerCase();return items.filter(x=>(date==="all"||x.date===date)&&(session==="전체"||x.session===session)&&(!q||`${x.company} ${x.ticker}`.toLowerCase().includes(q)))},[date,session,query]);
+ const before=items.filter(x=>x.session==="장전").length,after=items.filter(x=>x.session==="장후").length;
+ const updated=new Intl.DateTimeFormat("ko-KR",{month:"long",day:"numeric",hour:"2-digit",minute:"2-digit",timeZone:"Asia/Seoul"}).format(new Date(nasdaq.updatedAt));
+ const featured=items.filter(x=>x.featured).slice(0,3).map(x=>x.company).join(", ");
+ return <main>
+ <header className="topbar"><a className="brand" href="#top"><span className="brand-mark">EW</span><span>Earnings Week</span></a><div className="header-actions"><span className="market-pill"><i/> 미국 시장</span><a className="github-link" href={nasdaq.source.url} target="_blank" rel="noreferrer">Nasdaq ↗</a></div></header>
+ <section className="hero" id="top"><div className="eyebrow"><span>이번 주</span> {nasdaq.weekStart.replaceAll("-",". ")} — {short(nasdaq.weekEnd)}</div><div className="hero-grid"><div><h1>이번 주, 시장이<br/>기다리는 <em>실적.</em></h1><p className="hero-copy">Nasdaq 공식 실적 캘린더에서 시가총액 기준 주요 기업을 선별합니다.<br/>예상 EPS와 발표 시점은 미국 시장 기준입니다.</p></div><div className="week-card"><div className="week-card-head"><span>WEEKLY VIEW</span><span className="live"><i/> NASDAQ</span></div><div className="big-number">{items.length}</div><p>주요 실적 발표</p><div className="week-stats"><span><b>{before}</b>장전</span><span><b>{after}</b>장후</span><span><b>7</b>일 캘린더</span></div></div></div></section>
+ <div className="source-banner"><b>OFFICIAL DATA</b><span>Nasdaq Earnings Calendar</span><span className="source-status">최근 갱신 {updated} KST</span></div>
+ <section className="dashboard-shell"><div className="date-strip" role="tablist" aria-label="날짜 선택"><button className={date==="all"?"active":""} onClick={()=>setDate("all")}><span>전체</span><strong>WEEK</strong></button>{nasdaq.days.map(d=>{const n=items.filter(x=>x.date===d.date).length;return <button key={d.date} className={`${date===d.date?"active":""} ${d.weekday==="토"||d.weekday==="일"?"weekend":""}`} onClick={()=>setDate(d.date)}><span>{d.weekday}</span><strong>{d.day}</strong><small>{n?`${n}개`:"—"}</small></button>})}</div>
+ <div className="toolbar"><div className="filters">{(["전체","장전","장후","미정"] as const).map(x=><button key={x} className={session===x?"active":""} onClick={()=>setSession(x)}>{x}</button>)}</div><label className="search"><span>⌕</span><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="기업명 또는 티커 검색" aria-label="기업명 또는 티커 검색"/></label></div>
+ <div className="calendar-grid">{nasdaq.days.map(d=>{const list=visible.filter(x=>x.date===d.date);return <section className={`day-column ${d.weekday==="토"||d.weekday==="일"?"empty-column":""}`} key={d.date}><div className="day-heading"><span>{d.weekday}요일</span><b>{short(d.date)}</b></div><div className="card-stack">{list.map(x=><article className={`earning-card ${x.featured?"featured":""}`} key={`${x.date}-${x.ticker}`}><div className="company-row"><div className="company-mark" style={{background:x.color}}>{x.ticker.slice(0,2)}</div><div><h3>{x.company}</h3><p>{x.ticker} · {x.quarter}</p></div></div><div className="card-meta"><span className={`session ${x.session==="장후"?"after":x.session==="미정"?"unknown":""}`}>{x.session==="장전"?"☀":x.session==="장후"?"◐":"○"} {x.session}</span><span><small>예상 EPS</small><b>{x.eps}</b></span></div><p className="market-cap">시가총액 {x.marketCap}</p></article>)}{!list.length&&<div className="empty-state"><span>·</span><p>{d.weekday==="토"||d.weekday==="일"?"시장 휴장":"표시할 일정 없음"}</p></div>}</div></section>})}</div>{!visible.length&&<div className="no-results"><b>검색 결과가 없습니다.</b><p>다른 기업명이나 필터를 선택해 보세요.</p></div>}</section>
+ <section className="spotlight"><div><div className="eyebrow"><span>DATA FLOW</span> 자동 갱신</div><h2>Nasdaq에서 받아,<br/>매일 <em>새로고침.</em></h2></div><div className="spotlight-copy"><p>GitHub가 매일 공식 일정을 다시 받아 현재 주간 데이터를 갱신합니다. 이번 주 시가총액 상위 종목에는 {featured||"주요 기업"} 등이 포함됩니다.</p><div className="spotlight-tags"><span>공식 Nasdaq 출처</span><span>매일 자동 갱신</span><span>시가총액 우선</span></div></div></section>
+ <footer><p>일정과 컨센서스는 변경될 수 있습니다. 투자 판단의 근거가 아닌 정보 제공용입니다.</p><div><span>{dateLabel(nasdaq.weekStart)} — {dateLabel(nasdaq.weekEnd)}</span><a href={nasdaq.source.url} target="_blank" rel="noreferrer">Nasdaq 원문 ↗</a></div></footer>
+ </main>
+}
