@@ -30,6 +30,11 @@ export default function Home(){
   if(saved==="dark") setTheme("dark");
  },[]);
  useEffect(()=>{
+  const today=iso(new Date());
+  const idx=Math.floor((fromIso(today).getTime()-fromIso(firstMonday).getTime())/(7*DAY));
+  setWeek(Math.min(weekCount-1,Math.max(0,idx)));
+ },[]);
+ useEffect(()=>{
   document.documentElement.dataset.theme=theme;
   document.documentElement.style.colorScheme=theme;
   window.localStorage.setItem("earnings-theme",theme);
