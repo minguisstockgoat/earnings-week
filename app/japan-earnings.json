@@ -924,6 +924,16 @@
     {
       "date": "2026-08-06",
       "weekday": "목",
+      "company": "코쿠사이 일렉트릭",
+      "code": "6525",
+      "sector": "반도체장비",
+      "previousDate": "2026-05-13",
+      "previousSurprise": null,
+      "featured": true
+    },
+    {
+      "date": "2026-08-06",
+      "weekday": "목",
       "company": "니콘",
       "code": "7731",
       "sector": "정밀",
