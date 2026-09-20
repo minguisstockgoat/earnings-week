@@ -3,312 +3,232 @@
     "name": "Nasdaq Earnings Calendar",
     "url": "https://www.nasdaq.com/market-activity/earnings"
   },
-  "updatedAt": "2026-09-13T22:43:03.057Z",
-  "rangeStart": "2026-09-13",
-  "rangeEnd": "2026-10-13",
+  "updatedAt": "2026-09-20T22:46:34.101Z",
+  "rangeStart": "2026-09-20",
+  "rangeEnd": "2026-10-20",
   "items": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
+      "company": "Abivax SA",
+      "ticker": "ABVX",
+      "session": "장후",
+      "eps": "($1.08)",
+      "marketCap": "$9,211,254,800",
+      "marketCapValue": 9211254800,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-21",
       "company": "Grifols, S.A.",
       "ticker": "GRFS",
       "session": "미정",
       "eps": "$0.27",
-      "marketCap": "$5,259,794,900",
-      "marketCapValue": 5259794900,
+      "marketCap": "$5,087,906,300",
+      "marketCapValue": 5087906300,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
       "company": "ChronoScale Holdings Corporation",
       "ticker": "CHRN",
       "session": "미정",
       "eps": "($0.06)",
-      "marketCap": "$2,617,104,900",
-      "marketCapValue": 2617104900,
+      "marketCap": "$2,931,681,790",
+      "marketCapValue": 2931681790,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-14",
-      "company": "Kestra Medical Technologies, Ltd.",
-      "ticker": "KMTS",
-      "session": "장후",
-      "eps": "($0.61)",
-      "marketCap": "$1,381,275,520",
-      "marketCapValue": 1381275520,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "CoinShares PLC",
-      "ticker": "CSHR",
-      "session": "장전",
-      "eps": "—",
-      "marketCap": "$691,846,080",
-      "marketCapValue": 691846080,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
       "company": "Currenc Group Inc.",
       "ticker": "CURR",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$401,969,152",
-      "marketCapValue": 401969152,
+      "marketCap": "$348,073,856",
+      "marketCapValue": 348073856,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-14",
-      "company": "Radiant Logistics, Inc.",
-      "ticker": "RLGT",
-      "session": "장후",
-      "eps": "—",
-      "marketCap": "$384,487,968",
-      "marketCapValue": 384487968,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
       "company": "Apartment Investment and Management Company",
       "ticker": "AIV",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$354,378,016",
-      "marketCapValue": 354378016,
+      "marketCap": "$322,425,920",
+      "marketCapValue": 322425920,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-14",
-      "company": "Dave & Buster's Entertainment, Inc.",
-      "ticker": "PLAY",
-      "session": "장후",
-      "eps": "$0.19",
-      "marketCap": "$284,223,616",
-      "marketCapValue": 284223616,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "High Tide Inc.",
-      "ticker": "HITI",
-      "session": "장후",
-      "eps": "$0.01",
-      "marketCap": "$224,763,680",
-      "marketCapValue": 224763680,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "Coda Octopus Group, Inc.",
-      "ticker": "CODA",
-      "session": "장전",
-      "eps": "—",
-      "marketCap": "$110,777,008",
-      "marketCapValue": 110777008,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "RF Industries, Ltd.",
-      "ticker": "RFIL",
-      "session": "장전",
-      "eps": "$0.18",
-      "marketCap": "$110,574,392",
-      "marketCapValue": 110574392,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
       "company": "CBAK Energy Technology Limited",
       "ticker": "CBAT",
       "session": "미정",
       "eps": "($0.06)",
-      "marketCap": "$89,532,296",
-      "marketCapValue": 89532296,
+      "marketCap": "$93,964,584",
+      "marketCapValue": 93964584,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-14",
-      "company": "MindWalk Holdings Corp.",
-      "ticker": "HYFT",
-      "session": "장후",
-      "eps": "($0.05)",
-      "marketCap": "$61,659,664",
-      "marketCapValue": 61659664,
+      "date": "2026-09-21",
+      "company": "AiRWA Inc.",
+      "ticker": "YYAI",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$3,151,988",
+      "marketCapValue": 3151988,
       "quarter": "Jul/2026"
     },
     {
-      "date": "2026-09-14",
-      "company": "The Hain Celestial Group, Inc.",
-      "ticker": "HAIN",
-      "session": "장전",
-      "eps": "($0.03)",
-      "marketCap": "$57,717,104",
-      "marketCapValue": 57717104,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "Bioceres Crop Solutions Corp.",
-      "ticker": "BIOX",
-      "session": "장후",
-      "eps": "—",
-      "marketCap": "$26,713,932",
-      "marketCapValue": 26713932,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-14",
+      "date": "2026-09-21",
       "company": "Freight Technologies, Inc.",
       "ticker": "FRGT",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$560,683",
-      "marketCapValue": 560683,
+      "marketCap": "$558,794",
+      "marketCapValue": 558794,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
-      "company": "Trip.com Group Limited",
-      "ticker": "TCOM",
-      "session": "장후",
-      "eps": "$0.84",
-      "marketCap": "$24,369,592,300",
-      "marketCapValue": 24369592300,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Forgent Power Solutions, Inc.",
-      "ticker": "FPS",
+      "date": "2026-09-22",
+      "company": "AutoZone, Inc.",
+      "ticker": "AZO",
       "session": "장전",
-      "eps": "$0.22",
-      "marketCap": "$8,889,323,500",
-      "marketCapValue": 8889323500,
-      "quarter": "Jun/2026"
+      "eps": "$54.97",
+      "marketCap": "$46,434,370,000",
+      "marketCapValue": 46434370000,
+      "quarter": "Aug/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
+      "company": "Thor Industries, Inc.",
+      "ticker": "THO",
+      "session": "장전",
+      "eps": "$0.95",
+      "marketCap": "$3,583,629,570",
+      "marketCapValue": 3583629570,
+      "quarter": "Jul/2026"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "KB Home",
+      "ticker": "KBH",
+      "session": "장후",
+      "eps": "$0.88",
+      "marketCap": "$2,975,974,140",
+      "marketCapValue": 2975974140,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "Worthington Enterprises, Inc.",
+      "ticker": "WOR",
+      "session": "장후",
+      "eps": "$0.76",
+      "marketCap": "$2,932,671,490",
+      "marketCapValue": 2932671490,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "MillerKnoll, Inc.",
+      "ticker": "MLKN",
+      "session": "장전",
+      "eps": "$0.35",
+      "marketCap": "$1,453,704,320",
+      "marketCapValue": 1453704320,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-22",
       "company": "American Resources Corporation",
       "ticker": "AREC",
       "session": "미정",
       "eps": "($0.09)",
-      "marketCap": "$234,267,088",
-      "marketCapValue": 234267088,
+      "marketCap": "$213,942,544",
+      "marketCapValue": 213942544,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "Espey Mfg. & Electronics Corp.",
       "ticker": "ESP",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$188,743,088",
-      "marketCapValue": 188743088,
+      "marketCap": "$195,034,528",
+      "marketCapValue": 195034528,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "Elme Communities",
       "ticker": "ELME",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$147,504,080",
-      "marketCapValue": 147504080,
+      "marketCap": "$146,615,504",
+      "marketCapValue": 146615504,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
-      "company": "Evolution Petroleum Corporation, Inc.",
-      "ticker": "EPM",
-      "session": "장후",
-      "eps": "$0.01",
-      "marketCap": "$138,047,392",
-      "marketCapValue": 138047392,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "ZenaTech, Inc.",
       "ticker": "ZENA",
       "session": "미정",
       "eps": "($0.21)",
-      "marketCap": "$134,885,024",
-      "marketCapValue": 134885024,
+      "marketCap": "$128,871,048",
+      "marketCapValue": 128871048,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
-      "company": "AMREP Corporation",
-      "ticker": "AXR",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$122,311,784",
-      "marketCapValue": 122311784,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Vera Bradley, Inc.",
-      "ticker": "VRA",
-      "session": "장전",
-      "eps": "($0.08)",
-      "marketCap": "$86,736,672",
-      "marketCapValue": 86736672,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Upexi, Inc.",
-      "ticker": "UPXI",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$72,989,608",
-      "marketCapValue": 72989608,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "ALPS Group Inc",
       "ticker": "ALPS",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$64,047,480",
-      "marketCapValue": 64047480,
+      "marketCap": "$66,543,488",
+      "marketCapValue": 66543488,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
-      "company": "51Talk Online Education Group",
-      "ticker": "COE",
-      "session": "장전",
-      "eps": "—",
-      "marketCap": "$63,677,540",
-      "marketCapValue": 63677540,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "Borealis Foods Inc.",
       "ticker": "BRLS",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$30,692,528",
-      "marketCapValue": 30692528,
+      "marketCap": "$29,833,996",
+      "marketCapValue": 29833996,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "Atlantic American Corporation",
       "ticker": "AAME",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$26,516,396",
-      "marketCapValue": 26516396,
+      "marketCap": "$28,556,120",
+      "marketCapValue": 28556120,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
+      "company": "Aytu BioPharma, Inc. ",
+      "ticker": "AYTU",
+      "session": "장후",
+      "eps": "($0.22)",
+      "marketCap": "$21,466,416",
+      "marketCapValue": 21466416,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-22",
+      "company": "Natural Alternatives International, Inc.",
+      "ticker": "NAII",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$12,048,440",
+      "marketCapValue": 12048440,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-22",
       "company": "Sports Entertainment Gaming Global Corporation ",
       "ticker": "SEGG",
       "session": "미정",
@@ -318,27 +238,27 @@
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "BioRestorative Therapies, Inc.",
       "ticker": "BRTX",
       "session": "미정",
       "eps": "$3",
-      "marketCap": "$3,811,913",
-      "marketCapValue": 3811913,
+      "marketCap": "$3,666,895",
+      "marketCapValue": 3666895,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "Shuttle Pharmaceuticals Holdings, Inc.",
       "ticker": "SHPH",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$3,626,065",
-      "marketCapValue": 3626065,
+      "marketCap": "$3,471,983",
+      "marketCapValue": 3471983,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "company": "Gores Holdings X, Inc.",
       "ticker": "GTEN",
       "session": "미정",
@@ -348,227 +268,217 @@
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Lennar Corporation",
-      "ticker": "LEN",
-      "session": "장후",
-      "eps": "$1.30",
-      "marketCap": "$18,765,731,800",
-      "marketCapValue": 18765731800,
+      "date": "2026-09-23",
+      "company": "Cintas Corporation",
+      "ticker": "CTAS",
+      "session": "장전",
+      "eps": "$1.35",
+      "marketCap": "$79,088,337,000",
+      "marketCapValue": 79088337000,
       "quarter": "Aug/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Lennar Corporation",
-      "ticker": "LEN.B",
-      "session": "장후",
+      "date": "2026-09-23",
+      "company": "Paychex, Inc.",
+      "ticker": "PAYX",
+      "session": "장전",
+      "eps": "$1.33",
+      "marketCap": "$41,475,285,000",
+      "marketCapValue": 41475285000,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "General Mills, Inc.",
+      "ticker": "GIS",
+      "session": "장전",
+      "eps": "$0.72",
+      "marketCap": "$19,599,515,600",
+      "marketCapValue": 19599515600,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "session": "미정",
+      "eps": "($0.04)",
+      "marketCap": "$5,008,108,500",
+      "marketCapValue": 5008108500,
+      "quarter": "Jul/2026"
+    },
+    {
+      "date": "2026-09-23",
+      "company": "Manchester United Ltd.",
+      "ticker": "MANU",
+      "session": "장전",
       "eps": "—",
-      "marketCap": "$18,765,731,800",
-      "marketCapValue": 18765731800,
-      "quarter": "Aug/2026"
+      "marketCap": "$3,438,231,550",
+      "marketCapValue": 3438231550,
+      "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "Seabridge Gold, Inc.",
       "ticker": "SA",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$3,347,557,890",
-      "marketCapValue": 3347557890,
+      "marketCap": "$3,334,478,080",
+      "marketCapValue": 3334478080,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
+      "company": "H. B. Fuller Company",
+      "ticker": "FUL",
+      "session": "장후",
+      "eps": "$1.46",
+      "marketCap": "$2,711,423,490",
+      "marketCapValue": 2711423490,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-23",
       "company": "AnaptysBio, Inc.",
       "ticker": "ANAB",
       "session": "미정",
-      "eps": "($0.22)",
-      "marketCap": "$1,633,203,840",
-      "marketCapValue": 1633203840,
+      "eps": "($0.46)",
+      "marketCap": "$1,630,242,940",
+      "marketCapValue": 1630242940,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "LuxExperience B.V.",
-      "ticker": "LUXE",
+      "date": "2026-09-23",
+      "company": "Cracker Barrel Old Country Store, Inc.",
+      "ticker": "CBRL",
       "session": "장전",
-      "eps": "($0.17)",
-      "marketCap": "$1,011,896,960",
-      "marketCapValue": 1011896960,
-      "quarter": "Jun/2026"
+      "eps": "$0.20",
+      "marketCap": "$978,099,900",
+      "marketCapValue": 978099900,
+      "quarter": "Jul/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Rezolute, Inc.",
-      "ticker": "RZLT",
-      "session": "미정",
-      "eps": "($0.14)",
-      "marketCap": "$401,539,008",
-      "marketCapValue": 401539008,
-      "quarter": "Jun/2026"
+      "date": "2026-09-23",
+      "company": "Stitch Fix, Inc.",
+      "ticker": "SFIX",
+      "session": "장후",
+      "eps": "($0.06)",
+      "marketCap": "$388,269,248",
+      "marketCapValue": 388269248,
+      "quarter": "Jul/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "High Templar Tech Limited",
       "ticker": "HTT",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$394,420,096",
-      "marketCapValue": 394420096,
+      "marketCap": "$385,103,104",
+      "marketCapValue": 385103104,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Aeluma, Inc.",
-      "ticker": "ALMU",
+      "date": "2026-09-23",
+      "company": "NeoVolta Inc.",
+      "ticker": "NEOV",
       "session": "장후",
-      "eps": "—",
-      "marketCap": "$242,362,640",
-      "marketCapValue": 242362640,
+      "eps": "($0.10)",
+      "marketCap": "$205,432,736",
+      "marketCapValue": 205432736,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "NovaBridge Biosciences",
       "ticker": "NBP",
       "session": "미정",
       "eps": "($0.14)",
-      "marketCap": "$194,995,056",
-      "marketCapValue": 194995056,
+      "marketCap": "$188,072,160",
+      "marketCapValue": 188072160,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Sangoma Technologies Corporation",
-      "ticker": "SANG",
-      "session": "미정",
-      "eps": "($0.06)",
-      "marketCap": "$123,909,240",
-      "marketCapValue": 123909240,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "Ryde Group Ltd.",
       "ticker": "RYDE",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$114,173,368",
-      "marketCapValue": 114173368,
+      "marketCap": "$126,032,256",
+      "marketCapValue": 126032256,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Here Group Limited",
-      "ticker": "HERE",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$102,243,072",
-      "marketCapValue": 102243072,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-16",
-      "company": "Ispire Technology Inc.",
-      "ticker": "ISPR",
-      "session": "장전",
-      "eps": "—",
-      "marketCap": "$82,081,136",
-      "marketCapValue": 82081136,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "ATA Creativity Global",
       "ticker": "AACG",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$62,986,896",
-      "marketCapValue": 62986896,
+      "marketCap": "$57,691,136",
+      "marketCapValue": 57691136,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Deswell Industries, Inc.",
-      "ticker": "DSWL",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$49,244,240",
-      "marketCapValue": 49244240,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "Scienjoy Holding Corporation",
       "ticker": "SJ",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$33,541,340",
-      "marketCapValue": 33541340,
+      "marketCap": "$28,874,682",
+      "marketCapValue": 28874682,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "111, Inc.",
-      "ticker": "YI",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$30,349,526",
-      "marketCapValue": 30349526,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "AtlasClear Holdings, Inc.",
       "ticker": "ATCH",
       "session": "미정",
       "eps": "($0.01)",
-      "marketCap": "$27,361,476",
-      "marketCapValue": 27361476,
+      "marketCap": "$25,918,232",
+      "marketCapValue": 25918232,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "Palatin Technologies, Inc.",
       "ticker": "PTN",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$21,386,886",
-      "marketCapValue": 21386886,
+      "marketCap": "$18,557,838",
+      "marketCapValue": 18557838,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
-      "company": "Pluri Inc.",
-      "ticker": "PLUR",
+      "date": "2026-09-23",
+      "company": "Gauzy Ltd.",
+      "ticker": "GAUZ",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$15,430,920",
-      "marketCapValue": 15430920,
+      "marketCap": "$8,401,982",
+      "marketCapValue": 8401982,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "CollPlant Biotechnologies Ltd.",
       "ticker": "CLGN",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$6,693,506",
-      "marketCapValue": 6693506,
+      "marketCap": "$7,865,815",
+      "marketCapValue": 7865815,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "Gulf Resources, Inc.",
       "ticker": "GURE",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$5,803,299",
-      "marketCapValue": 5803299,
+      "marketCap": "$6,164,192",
+      "marketCapValue": 6164192,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-23",
       "company": "Lake Superior Acquisition Corp.",
       "ticker": "LKSP",
       "session": "미정",
@@ -578,433 +488,13 @@
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-17",
-      "company": "VinFast Auto Ltd.",
-      "ticker": "VFS",
-      "session": "미정",
-      "eps": "($0.26)",
-      "marketCap": "$7,042,003,500",
-      "marketCapValue": 7042003500,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Hub Group, Inc.",
-      "ticker": "HUBG",
-      "session": "미정",
-      "eps": "$0.52",
-      "marketCap": "$2,181,345,790",
-      "marketCapValue": 2181345790,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "American Battery Technology Company",
-      "ticker": "ABAT",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$349,220,896",
-      "marketCapValue": 349220896,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Innate Pharma S.A.",
-      "ticker": "IPHA",
-      "session": "장전",
-      "eps": "—",
-      "marketCap": "$209,996,656",
-      "marketCapValue": 209996656,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Endava plc",
-      "ticker": "DAVA",
-      "session": "미정",
-      "eps": "$0.05",
-      "marketCap": "$153,747,120",
-      "marketCapValue": 153747120,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Yiren Digital Ltd.",
-      "ticker": "YRD",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$86,954,784",
-      "marketCapValue": 86954784,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "iHuman Inc.",
-      "ticker": "IH",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$61,335,432",
-      "marketCapValue": 61335432,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "EON Resources Inc.",
-      "ticker": "EONR",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$30,680,564",
-      "marketCapValue": 30680564,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Chemomab Therapeutics Ltd. ",
-      "ticker": "CMMB",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$18,838,580",
-      "marketCapValue": 18838580,
-      "quarter": "Sep/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Alarum Technologies Ltd.",
-      "ticker": "ALAR",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$12,905,838",
-      "marketCapValue": 12905838,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Solarmax Technology Inc.",
-      "ticker": "SMXT",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$11,476,160",
-      "marketCapValue": 11476160,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Reborn Coffee, Inc.",
-      "ticker": "REBN",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$6,964,188",
-      "marketCapValue": 6964188,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Black Titan Corp",
-      "ticker": "BTTC",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$5,023,314",
-      "marketCapValue": 5023314,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "IT Tech Packaging, Inc.",
-      "ticker": "ITP",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$2,778,936",
-      "marketCapValue": 2778936,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "IP Strategy Holdings, Inc.",
-      "ticker": "IPST",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$2,713,133",
-      "marketCapValue": 2713133,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Synergy CHC Corp.",
-      "ticker": "SNYR",
-      "session": "미정",
-      "eps": "($0.01)",
-      "marketCap": "$1,609,187",
-      "marketCapValue": 1609187,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "Trio-Tech International",
-      "ticker": "TRT",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$101,429,368",
-      "marketCapValue": 101429368,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Korea Electric Power Corporation",
-      "ticker": "KEP",
-      "session": "미정",
-      "eps": "$0.33",
-      "marketCap": "$15,265,905,700",
-      "marketCapValue": 15265905700,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Abivax SA",
-      "ticker": "ABVX",
-      "session": "장후",
-      "eps": "($1.08)",
-      "marketCap": "$9,982,661,600",
-      "marketCapValue": 9982661600,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Value Line, Inc.",
-      "ticker": "VALU",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$354,323,712",
-      "marketCapValue": 354323712,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Mesabi Trust",
-      "ticker": "MSB",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$294,937,824",
-      "marketCapValue": 294937824,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "U.S. Gold Corp.",
-      "ticker": "USAU",
-      "session": "미정",
-      "eps": "($0.23)",
-      "marketCap": "$249,049,280",
-      "marketCapValue": 249049280,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "Ocean Power Technologies, Inc.",
-      "ticker": "OPTT",
-      "session": "미정",
-      "eps": "$0.03",
-      "marketCap": "$43,222,212",
-      "marketCapValue": 43222212,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "PharmaCyte  Biotech, Inc.",
-      "ticker": "PMCB",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$4,748,378",
-      "marketCapValue": 4748378,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-21",
-      "company": "AiRWA Inc.",
-      "ticker": "YYAI",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$3,319,666",
-      "marketCapValue": 3319666,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "AutoZone, Inc.",
-      "ticker": "AZO",
-      "session": "장전",
-      "eps": "$54.97",
-      "marketCap": "$47,041,020,000",
-      "marketCapValue": 47041020000,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "AAR Corp.",
-      "ticker": "AIR",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$5,011,017,700",
-      "marketCapValue": 5011017700,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "Thor Industries, Inc.",
-      "ticker": "THO",
-      "session": "장전",
-      "eps": "$0.95",
-      "marketCap": "$3,748,651,520",
-      "marketCapValue": 3748651520,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "KB Home",
-      "ticker": "KBH",
-      "session": "장후",
-      "eps": "$0.88",
-      "marketCap": "$2,927,539,460",
-      "marketCapValue": 2927539460,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "Worthington Enterprises, Inc.",
-      "ticker": "WOR",
-      "session": "장후",
-      "eps": "$0.76",
-      "marketCap": "$2,818,672,130",
-      "marketCapValue": 2818672130,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "MillerKnoll, Inc.",
-      "ticker": "MLKN",
-      "session": "장전",
-      "eps": "$0.35",
-      "marketCap": "$1,429,647,740",
-      "marketCapValue": 1429647740,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "Aytu BioPharma, Inc. ",
-      "ticker": "AYTU",
-      "session": "미정",
-      "eps": "($0.22)",
-      "marketCap": "$22,003,076",
-      "marketCapValue": 22003076,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "Natural Alternatives International, Inc.",
-      "ticker": "NAII",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$12,675,963",
-      "marketCapValue": 12675963,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Cintas Corporation",
-      "ticker": "CTAS",
-      "session": "장전",
-      "eps": "$1.35",
-      "marketCap": "$79,409,652,000",
-      "marketCapValue": 79409652000,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Paychex, Inc.",
-      "ticker": "PAYX",
-      "session": "장전",
-      "eps": "$1.33",
-      "marketCap": "$41,001,832,000",
-      "marketCapValue": 41001832000,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "General Mills, Inc.",
-      "ticker": "GIS",
-      "session": "장전",
-      "eps": "$0.71",
-      "marketCap": "$19,225,276,400",
-      "marketCapValue": 19225276400,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Uranium Energy Corp.",
-      "ticker": "UEC",
-      "session": "미정",
-      "eps": "($0.04)",
-      "marketCap": "$5,453,493,200",
-      "marketCapValue": 5453493200,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Manchester United Ltd.",
-      "ticker": "MANU",
-      "session": "장전",
-      "eps": "—",
-      "marketCap": "$3,452,025,860",
-      "marketCapValue": 3452025860,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "H. B. Fuller Company",
-      "ticker": "FUL",
-      "session": "장후",
-      "eps": "$1.46",
-      "marketCap": "$2,778,119,680",
-      "marketCapValue": 2778119680,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Cracker Barrel Old Country Store, Inc.",
-      "ticker": "CBRL",
-      "session": "장전",
-      "eps": "$0.20",
-      "marketCap": "$1,105,056,130",
-      "marketCapValue": 1105056130,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Stitch Fix, Inc.",
-      "ticker": "SFIX",
-      "session": "장후",
-      "eps": "($0.06)",
-      "marketCap": "$380,263,680",
-      "marketCapValue": 380263680,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "NeoVolta Inc.",
-      "ticker": "NEOV",
-      "session": "장후",
-      "eps": "($0.10)",
-      "marketCap": "$216,028,112",
-      "marketCapValue": 216028112,
-      "quarter": "Jun/2026"
-    },
-    {
       "date": "2026-09-24",
       "company": "Costco Wholesale Corporation",
       "ticker": "COST",
       "session": "장후",
       "eps": "$6.48",
-      "marketCap": "$400,186,409,000",
-      "marketCapValue": 400186409000,
+      "marketCap": "$396,438,995,000",
+      "marketCapValue": 396438995000,
       "quarter": "Aug/2026"
     },
     {
@@ -1013,8 +503,8 @@
       "ticker": "DRI",
       "session": "장전",
       "eps": "$2.06",
-      "marketCap": "$23,674,601,500",
-      "marketCapValue": 23674601500,
+      "marketCap": "$23,584,479,200",
+      "marketCapValue": 23584479200,
       "quarter": "Aug/2026"
     },
     {
@@ -1023,9 +513,19 @@
       "ticker": "SNX",
       "session": "장전",
       "eps": "$4.38",
-      "marketCap": "$20,432,660,500",
-      "marketCapValue": 20432660500,
+      "marketCap": "$21,141,893,100",
+      "marketCapValue": 21141893100,
       "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "VinFast Auto Ltd.",
+      "ticker": "VFS",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$7,580,096,500",
+      "marketCapValue": 7580096500,
+      "quarter": "Jun/2026"
     },
     {
       "date": "2026-09-24",
@@ -1033,18 +533,18 @@
       "ticker": "BB",
       "session": "장전",
       "eps": "$0.03",
-      "marketCap": "$4,436,418,000",
-      "marketCapValue": 4436418000,
+      "marketCap": "$4,658,912,300",
+      "marketCapValue": 4658912300,
       "quarter": "Aug/2026"
     },
     {
       "date": "2026-09-24",
-      "company": "Tamboran Resources Corporation",
-      "ticker": "TBN",
+      "company": "Hub Group, Inc.",
+      "ticker": "HUBG",
       "session": "미정",
-      "eps": "($0.25)",
-      "marketCap": "$1,370,902,660",
-      "marketCapValue": 1370902660,
+      "eps": "$0.52",
+      "marketCap": "$2,041,304,190",
+      "marketCapValue": 2041304190,
       "quarter": "Jun/2026"
     },
     {
@@ -1053,28 +553,48 @@
       "ticker": "SCHL",
       "session": "장후",
       "eps": "($3.42)",
-      "marketCap": "$668,887,230",
-      "marketCapValue": 668887230,
+      "marketCap": "$663,008,130",
+      "marketCapValue": 663008130,
       "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Uxin Limited",
+      "ticker": "UXIN",
+      "session": "장전",
+      "eps": "—",
+      "marketCap": "$237,578,688",
+      "marketCapValue": 237578688,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Endava plc",
+      "ticker": "DAVA",
+      "session": "미정",
+      "eps": "$0.05",
+      "marketCap": "$159,723,152",
+      "marketCapValue": 159723152,
+      "quarter": "Jun/2026"
     },
     {
       "date": "2026-09-24",
       "company": "Legacy Education Inc.",
       "ticker": "LGCY",
       "session": "장후",
-      "eps": "$0.12",
-      "marketCap": "$129,177,312",
-      "marketCapValue": 129177312,
+      "eps": "—",
+      "marketCap": "$131,834,240",
+      "marketCapValue": 131834240,
       "quarter": "Jun/2026"
     },
     {
       "date": "2026-09-24",
-      "company": "Paramount Gold Nevada Corp.",
-      "ticker": "PZG",
+      "company": "Yiren Digital Ltd.",
+      "ticker": "YRD",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$112,377,536",
-      "marketCapValue": 112377536,
+      "marketCap": "$88,363,344",
+      "marketCapValue": 88363344,
       "quarter": "Jun/2026"
     },
     {
@@ -1083,8 +603,38 @@
       "ticker": "RAVE",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$42,137,292",
-      "marketCapValue": 42137292,
+      "marketCap": "$41,355,656",
+      "marketCapValue": 41355656,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "EON Resources Inc.",
+      "ticker": "EONR",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$28,431,988",
+      "marketCapValue": 28431988,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Chemomab Therapeutics Ltd. ",
+      "ticker": "CMMB",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$20,287,702",
+      "marketCapValue": 20287702,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Alarum Technologies Ltd.",
+      "ticker": "ALAR",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$15,370,999",
+      "marketCapValue": 15370999,
       "quarter": "Jun/2026"
     },
     {
@@ -1093,8 +643,8 @@
       "ticker": "ASTC",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$15,195,767",
-      "marketCapValue": 15195767,
+      "marketCap": "$13,046,019",
+      "marketCapValue": 13046019,
       "quarter": "Jun/2026"
     },
     {
@@ -1103,8 +653,68 @@
       "ticker": "BTOC",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$13,178,493",
-      "marketCapValue": 13178493,
+      "marketCap": "$12,733,151",
+      "marketCapValue": 12733151,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Solarmax Technology Inc.",
+      "ticker": "SMXT",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$10,622,562",
+      "marketCapValue": 10622562,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Moving iMage Technologies, Inc.",
+      "ticker": "MITQ",
+      "session": "장전",
+      "eps": "—",
+      "marketCap": "$6,065,048",
+      "marketCapValue": 6065048,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "Black Titan Corp",
+      "ticker": "BTTC",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$5,176,740",
+      "marketCapValue": 5176740,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "IT Tech Packaging, Inc.",
+      "ticker": "ITP",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$2,799,294",
+      "marketCapValue": 2799294,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-24",
+      "company": "IP Strategy Holdings, Inc.",
+      "ticker": "IPST",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$2,063,713",
+      "marketCapValue": 2063713,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-25",
+      "company": "Tamboran Resources Corporation",
+      "ticker": "TBN",
+      "session": "장전",
+      "eps": "($0.25)",
+      "marketCap": "$1,341,971,840",
+      "marketCapValue": 1341971840,
       "quarter": "Jun/2026"
     },
     {
@@ -1113,8 +723,8 @@
       "ticker": "IVA",
       "session": "장후",
       "eps": "($0.20)",
-      "marketCap": "$978,200,060",
-      "marketCapValue": 978200060,
+      "marketCap": "$886,050,750",
+      "marketCapValue": 886050750,
       "quarter": "Jun/2026"
     },
     {
@@ -1123,19 +733,19 @@
       "ticker": "LITS",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$33,795,608",
-      "marketCapValue": 33795608,
+      "marketCap": "$33,157,954",
+      "marketCapValue": 33157954,
       "quarter": "Jun/2026"
     },
     {
-      "date": "2026-09-25",
-      "company": "Moving iMage Technologies, Inc.",
-      "ticker": "MITQ",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$5,863,244",
-      "marketCapValue": 5863244,
-      "quarter": "Jun/2026"
+      "date": "2026-09-28",
+      "company": "Jefferies Financial Group Inc.",
+      "ticker": "JEF",
+      "session": "장후",
+      "eps": "$0.85",
+      "marketCap": "$9,274,462,200",
+      "marketCapValue": 9274462200,
+      "quarter": "Aug/2026"
     },
     {
       "date": "2026-09-28",
@@ -1143,8 +753,18 @@
       "ticker": "MTN",
       "session": "장후",
       "eps": "($5.31)",
-      "marketCap": "$4,751,018,000",
-      "marketCapValue": 4751018000,
+      "marketCap": "$4,908,874,800",
+      "marketCapValue": 4908874800,
+      "quarter": "Jul/2026"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "IDT Corporation",
+      "ticker": "IDT",
+      "session": "장후",
+      "eps": "—",
+      "marketCap": "$1,717,174,530",
+      "marketCapValue": 1717174530,
       "quarter": "Jul/2026"
     },
     {
@@ -1153,19 +773,9 @@
       "ticker": "EBF",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$535,564,416",
-      "marketCapValue": 535564416,
+      "marketCap": "$541,130,050",
+      "marketCapValue": 541130050,
       "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Benitec Biopharma Inc.",
-      "ticker": "BNTC",
-      "session": "미정",
-      "eps": "($0.25)",
-      "marketCap": "$419,809,952",
-      "marketCapValue": 419809952,
-      "quarter": "Jun/2026"
     },
     {
       "date": "2026-09-28",
@@ -1173,8 +783,28 @@
       "ticker": "AIAI",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$231,067,232",
-      "marketCapValue": 231067232,
+      "marketCap": "$231,773,856",
+      "marketCapValue": 231773856,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "ReposiTrak, Inc.",
+      "ticker": "TRAK",
+      "session": "장후",
+      "eps": "—",
+      "marketCap": "$154,293,568",
+      "marketCapValue": 154293568,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-09-28",
+      "company": "Genius Group Limited",
+      "ticker": "GNS",
+      "session": "장전",
+      "eps": "—",
+      "marketCap": "$28,638,568",
+      "marketCapValue": 28638568,
       "quarter": "Jun/2026"
     },
     {
@@ -1183,8 +813,8 @@
       "ticker": "PBM",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$18,957,210",
-      "marketCapValue": 18957210,
+      "marketCap": "$24,106,552",
+      "marketCapValue": 24106552,
       "quarter": "Jun/2026"
     },
     {
@@ -1193,8 +823,8 @@
       "ticker": "NCPL",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$3,663,399",
-      "marketCapValue": 3663399,
+      "marketCap": "$4,419,152",
+      "marketCapValue": 4419152,
       "quarter": "Jul/2026"
     },
     {
@@ -1203,18 +833,38 @@
       "ticker": "MSS",
       "session": "미정",
       "eps": "$0.57",
-      "marketCap": "$1,445,523",
-      "marketCapValue": 1445523,
+      "marketCap": "$1,308,669",
+      "marketCapValue": 1308669,
       "quarter": "Jul/2026"
+    },
+    {
+      "date": "2026-09-29",
+      "company": "Carnival Corporation Ltd.",
+      "ticker": "CCL",
+      "session": "장전",
+      "eps": "$1.36",
+      "marketCap": "$30,365,120,500",
+      "marketCapValue": 30365120500,
+      "quarter": "Aug/2026"
     },
     {
       "date": "2026-09-29",
       "company": "CarMax Inc",
       "ticker": "KMX",
       "session": "장전",
-      "eps": "$0.68",
-      "marketCap": "$8,588,459,500",
-      "marketCapValue": 8588459500,
+      "eps": "$0.66",
+      "marketCap": "$8,284,769,800",
+      "marketCapValue": 8284769800,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-29",
+      "company": "AAR Corp.",
+      "ticker": "AIR",
+      "session": "장후",
+      "eps": "—",
+      "marketCap": "$4,513,821,200",
+      "marketCapValue": 4513821200,
       "quarter": "Aug/2026"
     },
     {
@@ -1223,8 +873,8 @@
       "ticker": "CNXC",
       "session": "장후",
       "eps": "$2.40",
-      "marketCap": "$1,647,495,420",
-      "marketCapValue": 1647495420,
+      "marketCap": "$1,729,260,030",
+      "marketCapValue": 1729260030,
       "quarter": "Aug/2026"
     },
     {
@@ -1233,8 +883,8 @@
       "ticker": "IPX",
       "session": "미정",
       "eps": "($0.16)",
-      "marketCap": "$738,160,380",
-      "marketCapValue": 738160380,
+      "marketCap": "$665,192,770",
+      "marketCapValue": 665192770,
       "quarter": "Jun/2026"
     },
     {
@@ -1243,8 +893,8 @@
       "ticker": "TMQ",
       "session": "미정",
       "eps": "($0.01)",
-      "marketCap": "$571,788,100",
-      "marketCapValue": 571788100,
+      "marketCap": "$559,695,870",
+      "marketCapValue": 559695870,
       "quarter": "Aug/2026"
     },
     {
@@ -1253,8 +903,8 @@
       "ticker": "INTG",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$83,148,280",
-      "marketCapValue": 83148280,
+      "marketCap": "$79,226,696",
+      "marketCapValue": 79226696,
       "quarter": "Jun/2026"
     },
     {
@@ -1262,9 +912,9 @@
       "company": "Micron Technology, Inc.",
       "ticker": "MU",
       "session": "장후",
-      "eps": "$31.17",
-      "marketCap": "$1,103,880,130,000",
-      "marketCapValue": 1103880130000,
+      "eps": "$31.24",
+      "marketCap": "$1,103,981,840,000",
+      "marketCapValue": 1103981840000,
       "quarter": "Aug/2026"
     },
     {
@@ -1273,8 +923,8 @@
       "ticker": "JBL",
       "session": "장전",
       "eps": "$3.86",
-      "marketCap": "$31,729,530,900",
-      "marketCapValue": 31729530900,
+      "marketCap": "$31,010,691,100",
+      "marketCapValue": 31010691100,
       "quarter": "Aug/2026"
     },
     {
@@ -1282,9 +932,9 @@
       "company": "FactSet Research Systems Inc.",
       "ticker": "FDS",
       "session": "장전",
-      "eps": "$4.30",
-      "marketCap": "$9,351,247,900",
-      "marketCapValue": 9351247900,
+      "eps": "$4.32",
+      "marketCap": "$9,917,451,300",
+      "marketCapValue": 9917451300,
       "quarter": "Aug/2026"
     },
     {
@@ -1293,8 +943,8 @@
       "ticker": "CAG",
       "session": "장전",
       "eps": "$0.31",
-      "marketCap": "$7,056,993,800",
-      "marketCapValue": 7056993800,
+      "marketCap": "$7,287,426,600",
+      "marketCapValue": 7287426600,
       "quarter": "Aug/2026"
     },
     {
@@ -1303,8 +953,28 @@
       "ticker": "CALM",
       "session": "장전",
       "eps": "—",
-      "marketCap": "$3,458,170,620",
-      "marketCapValue": 3458170620,
+      "marketCap": "$3,475,998,720",
+      "marketCapValue": 3475998720,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "Progress Software Corporation",
+      "ticker": "PRGS",
+      "session": "장후",
+      "eps": "$1.16",
+      "marketCap": "$1,675,378,690",
+      "marketCapValue": 1675378690,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-09-30",
+      "company": "Bassett Furniture Industries, Incorporated",
+      "ticker": "BSET",
+      "session": "장후",
+      "eps": "$0.13",
+      "marketCap": "$151,433,120",
+      "marketCapValue": 151433120,
       "quarter": "Aug/2026"
     },
     {
@@ -1313,8 +983,8 @@
       "ticker": "ACN",
       "session": "장전",
       "eps": "$3.19",
-      "marketCap": "$118,756,745,000",
-      "marketCapValue": 118756745000,
+      "marketCap": "$127,020,515,000",
+      "marketCapValue": 127020515000,
       "quarter": "Aug/2026"
     },
     {
@@ -1322,9 +992,9 @@
       "company": "Nike, Inc.",
       "ticker": "NKE",
       "session": "장후",
-      "eps": "$0.45",
-      "marketCap": "$54,325,723,000",
-      "marketCapValue": 54325723000,
+      "eps": "$0.44",
+      "marketCap": "$53,940,011,000",
+      "marketCapValue": 53940011000,
       "quarter": "Aug/2026"
     },
     {
@@ -1333,8 +1003,8 @@
       "ticker": "MKC",
       "session": "장전",
       "eps": "$0.75",
-      "marketCap": "$13,738,314,800",
-      "marketCapValue": 13738314800,
+      "marketCap": "$13,361,922,000",
+      "marketCapValue": 13361922000,
       "quarter": "Aug/2026"
     },
     {
@@ -1343,8 +1013,8 @@
       "ticker": "MKC.V",
       "session": "장전",
       "eps": "—",
-      "marketCap": "$13,738,314,800",
-      "marketCapValue": 13738314800,
+      "marketCap": "$13,361,922,000",
+      "marketCapValue": 13361922000,
       "quarter": "Aug/2026"
     },
     {
@@ -1353,8 +1023,8 @@
       "ticker": "AYI",
       "session": "장전",
       "eps": "$5.32",
-      "marketCap": "$9,467,116,500",
-      "marketCapValue": 9467116500,
+      "marketCap": "$8,966,893,600",
+      "marketCapValue": 8966893600,
       "quarter": "Aug/2026"
     },
     {
@@ -1363,8 +1033,8 @@
       "ticker": "ANGO",
       "session": "미정",
       "eps": "($0.10)",
-      "marketCap": "$629,905,600",
-      "marketCapValue": 629905600,
+      "marketCap": "$635,278,850",
+      "marketCapValue": 635278850,
       "quarter": "Aug/2026"
     },
     {
@@ -1373,8 +1043,8 @@
       "ticker": "PBK",
       "session": "미정",
       "eps": "($0.01)",
-      "marketCap": "$16,837,462",
-      "marketCapValue": 16837462,
+      "marketCap": "$13,931,026",
+      "marketCapValue": 13931026,
       "quarter": "Jun/2026"
     },
     {
@@ -1383,39 +1053,9 @@
       "ticker": "VRAX",
       "session": "미정",
       "eps": "($1.75)",
-      "marketCap": "$3,833,216",
-      "marketCapValue": 3833216,
+      "marketCap": "$3,402,820",
+      "marketCapValue": 3402820,
       "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "Carnival Corporation Ltd.",
-      "ticker": "CCL",
-      "session": "미정",
-      "eps": "$1.36",
-      "marketCap": "$30,776,014,800",
-      "marketCapValue": 30776014800,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "Constellation Brands Inc",
-      "ticker": "STZ",
-      "session": "미정",
-      "eps": "$3.63",
-      "marketCap": "$21,144,078,300",
-      "marketCapValue": 21144078300,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "Jefferies Financial Group Inc.",
-      "ticker": "JEF",
-      "session": "미정",
-      "eps": "$0.87",
-      "marketCap": "$10,448,543,700",
-      "marketCapValue": 10448543700,
-      "quarter": "Aug/2026"
     },
     {
       "date": "2026-10-05",
@@ -1423,48 +1063,18 @@
       "ticker": "AEHR",
       "session": "미정",
       "eps": "$0.05",
-      "marketCap": "$3,063,792,130",
-      "marketCapValue": 3063792130,
+      "marketCap": "$2,957,321,980",
+      "marketCapValue": 2957321980,
       "quarter": "Aug/2026"
     },
     {
       "date": "2026-10-05",
-      "company": "IDT Corporation",
-      "ticker": "IDT",
+      "company": "NetSol Technologies Inc.",
+      "ticker": "NTWK",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$1,726,375,810",
-      "marketCapValue": 1726375810,
-      "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "Progress Software Corporation",
-      "ticker": "PRGS",
-      "session": "미정",
-      "eps": "$1.16",
-      "marketCap": "$1,665,535,620",
-      "marketCapValue": 1665535620,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "ReposiTrak, Inc.",
-      "ticker": "TRAK",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$143,389,424",
-      "marketCapValue": 143389424,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "5E Advanced Materials, Inc.",
-      "ticker": "FEAM",
-      "session": "미정",
-      "eps": "($0.28)",
-      "marketCap": "$62,272,836",
-      "marketCapValue": 62272836,
+      "marketCap": "$52,731,280",
+      "marketCapValue": 52731280,
       "quarter": "Jun/2026"
     },
     {
@@ -1473,18 +1083,8 @@
       "ticker": "POCI",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$48,047,976",
-      "marketCapValue": 48047976,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "NetSol Technologies Inc.",
-      "ticker": "NTWK",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$47,505,656",
-      "marketCapValue": 47505656,
+      "marketCap": "$47,719,628",
+      "marketCapValue": 47719628,
       "quarter": "Jun/2026"
     },
     {
@@ -1493,18 +1093,8 @@
       "ticker": "IXHL",
       "session": "미정",
       "eps": "$0.13",
-      "marketCap": "$38,884,800",
-      "marketCapValue": 38884800,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-10-05",
-      "company": "Franklin Wireless Corp.",
-      "ticker": "FKWL",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$28,282,272",
-      "marketCapValue": 28282272,
+      "marketCap": "$42,952,748",
+      "marketCapValue": 42952748,
       "quarter": "Jun/2026"
     },
     {
@@ -1513,8 +1103,18 @@
       "ticker": "NNVC",
       "session": "미정",
       "eps": "($0.11)",
-      "marketCap": "$26,037,900",
-      "marketCapValue": 26037900,
+      "marketCap": "$35,738,296",
+      "marketCapValue": 35738296,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-05",
+      "company": "Franklin Wireless Corp.",
+      "ticker": "FKWL",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$28,871,486",
+      "marketCapValue": 28871486,
       "quarter": "Jun/2026"
     },
     {
@@ -1523,8 +1123,8 @@
       "ticker": "NEUP",
       "session": "미정",
       "eps": "($0.56)",
-      "marketCap": "$20,158,976",
-      "marketCapValue": 20158976,
+      "marketCap": "$20,077,908",
+      "marketCapValue": 20077908,
       "quarter": "Jun/2026"
     },
     {
@@ -1533,8 +1133,8 @@
       "ticker": "BTLN",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$19,986,776",
-      "marketCapValue": 19986776,
+      "marketCap": "$14,755,192",
+      "marketCapValue": 14755192,
       "quarter": "Jun/2026"
     },
     {
@@ -1543,8 +1143,8 @@
       "ticker": "MARPS",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$9,200,000",
-      "marketCapValue": 9200000,
+      "marketCap": "$8,900,000",
+      "marketCapValue": 8900000,
       "quarter": "Jun/2026"
     },
     {
@@ -1563,8 +1163,8 @@
       "ticker": "ADXN",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$5,775,587",
-      "marketCapValue": 5775587,
+      "marketCap": "$5,724,476",
+      "marketCapValue": 5724476,
       "quarter": "Jun/2026"
     },
     {
@@ -1573,9 +1173,19 @@
       "ticker": "PPCB",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$3,303,681",
-      "marketCapValue": 3303681,
+      "marketCap": "$2,207,593",
+      "marketCapValue": 2207593,
       "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "Constellation Brands Inc",
+      "ticker": "STZ",
+      "session": "장후",
+      "eps": "$3.63",
+      "marketCap": "$20,911,818,800",
+      "marketCapValue": 20911818800,
+      "quarter": "Aug/2026"
     },
     {
       "date": "2026-10-06",
@@ -1583,8 +1193,8 @@
       "ticker": "RPM",
       "session": "장전",
       "eps": "$1.95",
-      "marketCap": "$12,686,000,100",
-      "marketCapValue": 12686000100,
+      "marketCap": "$12,669,392,900",
+      "marketCapValue": 12669392900,
       "quarter": "Aug/2026"
     },
     {
@@ -1593,18 +1203,28 @@
       "ticker": "LW",
       "session": "장전",
       "eps": "$0.58",
-      "marketCap": "$6,505,601,500",
-      "marketCapValue": 6505601500,
+      "marketCap": "$6,387,367,900",
+      "marketCapValue": 6387367900,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "Neogen Corporation",
+      "ticker": "NEOG",
+      "session": "장후",
+      "eps": "$0.04",
+      "marketCap": "$2,798,300,160",
+      "marketCapValue": 2798300160,
       "quarter": "Aug/2026"
     },
     {
       "date": "2026-10-06",
       "company": "Penguin Solutions, Inc.",
       "ticker": "PENG",
-      "session": "미정",
+      "session": "장후",
       "eps": "$0.61",
-      "marketCap": "$2,491,419,900",
-      "marketCapValue": 2491419900,
+      "marketCap": "$2,692,803,840",
+      "marketCapValue": 2692803840,
       "quarter": "Aug/2026"
     },
     {
@@ -1613,8 +1233,18 @@
       "ticker": "WS",
       "session": "장후",
       "eps": "$1.16",
-      "marketCap": "$1,719,448,450",
-      "marketCapValue": 1719448450,
+      "marketCap": "$1,719,957,890",
+      "marketCapValue": 1719957890,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-06",
+      "company": "Apogee Enterprises, Inc.",
+      "ticker": "APOG",
+      "session": "장전",
+      "eps": "$0.59",
+      "marketCap": "$786,734,660",
+      "marketCapValue": 786734660,
       "quarter": "Aug/2026"
     },
     {
@@ -1623,18 +1253,18 @@
       "ticker": "VLGEA",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$638,733,380",
-      "marketCapValue": 638733380,
+      "marketCap": "$653,690,940",
+      "marketCapValue": 653690940,
       "quarter": "Jul/2026"
     },
     {
       "date": "2026-10-06",
       "company": "Saratoga Investment Corp",
       "ticker": "SAR",
-      "session": "미정",
+      "session": "장후",
       "eps": "$0.47",
-      "marketCap": "$275,948,512",
-      "marketCapValue": 275948512,
+      "marketCap": "$287,205,152",
+      "marketCapValue": 287205152,
       "quarter": "Aug/2026"
     },
     {
@@ -1643,8 +1273,8 @@
       "ticker": "AXIL",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$41,004,312",
-      "marketCapValue": 41004312,
+      "marketCap": "$41,618,352",
+      "marketCapValue": 41618352,
       "quarter": "Aug/2026"
     },
     {
@@ -1653,8 +1283,8 @@
       "ticker": "ARTW",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$15,760,200",
-      "marketCapValue": 15760200,
+      "marketCap": "$15,500,130",
+      "marketCapValue": 15500130,
       "quarter": "Aug/2026"
     },
     {
@@ -1663,8 +1293,8 @@
       "ticker": "NG",
       "session": "미정",
       "eps": "($0.08)",
-      "marketCap": "$3,350,125,570",
-      "marketCapValue": 3350125570,
+      "marketCap": "$3,268,524,540",
+      "marketCapValue": 3268524540,
       "quarter": "Aug/2026"
     },
     {
@@ -1673,8 +1303,8 @@
       "ticker": "TORO",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$234,312,256",
-      "marketCapValue": 234312256,
+      "marketCap": "$214,267,840",
+      "marketCapValue": 214267840,
       "quarter": "Jun/2026"
     },
     {
@@ -1683,19 +1313,9 @@
       "ticker": "TAYD",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$191,522,176",
-      "marketCapValue": 191522176,
+      "marketCap": "$195,360,352",
+      "marketCapValue": 195360352,
       "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-10-07",
-      "company": "Castor Maritime Inc.",
-      "ticker": "CTRM",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$23,286,272",
-      "marketCapValue": 23286272,
-      "quarter": "Jun/2026"
     },
     {
       "date": "2026-10-07",
@@ -1703,8 +1323,8 @@
       "ticker": "RBNE",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$3,557,233",
-      "marketCapValue": 3557233,
+      "marketCap": "$3,337,404",
+      "marketCapValue": 3337404,
       "quarter": "Jun/2026"
     },
     {
@@ -1713,8 +1333,8 @@
       "ticker": "SXTC",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$2,550,449",
-      "marketCapValue": 2550449,
+      "marketCap": "$3,217,794",
+      "marketCapValue": 3217794,
       "quarter": "Jun/2026"
     },
     {
@@ -1723,8 +1343,8 @@
       "ticker": "PEP",
       "session": "장전",
       "eps": "$2.30",
-      "marketCap": "$186,512,425,000",
-      "marketCapValue": 186512425000,
+      "marketCap": "$182,431,400,000",
+      "marketCapValue": 182431400000,
       "quarter": "Sep/2026"
     },
     {
@@ -1733,19 +1353,9 @@
       "ticker": "DAL",
       "session": "미정",
       "eps": "$2.03",
-      "marketCap": "$51,452,424,000",
-      "marketCapValue": 51452424000,
+      "marketCap": "$52,234,998,000",
+      "marketCapValue": 52234998000,
       "quarter": "Sep/2026"
-    },
-    {
-      "date": "2026-10-08",
-      "company": "Levi Strauss & Co.",
-      "ticker": "LEVI",
-      "session": "미정",
-      "eps": "$0.36",
-      "marketCap": "$7,743,193,100",
-      "marketCapValue": 7743193100,
-      "quarter": "Aug/2026"
     },
     {
       "date": "2026-10-08",
@@ -1753,8 +1363,18 @@
       "ticker": "APLD",
       "session": "미정",
       "eps": "($0.25)",
-      "marketCap": "$7,514,073,600",
-      "marketCapValue": 7514073600,
+      "marketCap": "$7,688,955,400",
+      "marketCapValue": 7688955400,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "Levi Strauss & Co.",
+      "ticker": "LEVI",
+      "session": "미정",
+      "eps": "$0.36",
+      "marketCap": "$7,639,283,700",
+      "marketCapValue": 7639283700,
       "quarter": "Aug/2026"
     },
     {
@@ -1763,18 +1383,8 @@
       "ticker": "NRIX",
       "session": "미정",
       "eps": "($0.56)",
-      "marketCap": "$2,678,605,310",
-      "marketCapValue": 2678605310,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-10-08",
-      "company": "Neogen Corporation",
-      "ticker": "NEOG",
-      "session": "미정",
-      "eps": "$0.04",
-      "marketCap": "$2,567,107,580",
-      "marketCapValue": 2567107580,
+      "marketCap": "$2,646,433,020",
+      "marketCapValue": 2646433020,
       "quarter": "Aug/2026"
     },
     {
@@ -1783,19 +1393,9 @@
       "ticker": "ODC",
       "session": "장후",
       "eps": "—",
-      "marketCap": "$1,248,894,460",
-      "marketCapValue": 1248894460,
+      "marketCap": "$1,269,467,900",
+      "marketCapValue": 1269467900,
       "quarter": "Jul/2026"
-    },
-    {
-      "date": "2026-10-08",
-      "company": "Apogee Enterprises, Inc.",
-      "ticker": "APOG",
-      "session": "미정",
-      "eps": "$0.59",
-      "marketCap": "$783,187,070",
-      "marketCapValue": 783187070,
-      "quarter": "Aug/2026"
     },
     {
       "date": "2026-10-08",
@@ -1803,8 +1403,8 @@
       "ticker": "PKE",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$667,979,710",
-      "marketCapValue": 667979710,
+      "marketCap": "$663,194,430",
+      "marketCapValue": 663194430,
       "quarter": "Aug/2026"
     },
     {
@@ -1813,8 +1413,8 @@
       "ticker": "HELE",
       "session": "미정",
       "eps": "$0.32",
-      "marketCap": "$617,239,620",
-      "marketCapValue": 617239620,
+      "marketCap": "$641,463,360",
+      "marketCapValue": 641463360,
       "quarter": "Aug/2026"
     },
     {
@@ -1823,8 +1423,8 @@
       "ticker": "TLRY",
       "session": "미정",
       "eps": "($0.18)",
-      "marketCap": "$565,348,420",
-      "marketCapValue": 565348420,
+      "marketCap": "$536,508,640",
+      "marketCapValue": 536508640,
       "quarter": "Aug/2026"
     },
     {
@@ -1833,8 +1433,8 @@
       "ticker": "BYRN",
       "session": "미정",
       "eps": "($0.14)",
-      "marketCap": "$82,618,784",
-      "marketCapValue": 82618784,
+      "marketCap": "$88,469,968",
+      "marketCapValue": 88469968,
       "quarter": "Aug/2026"
     },
     {
@@ -1843,8 +1443,8 @@
       "ticker": "IPW",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$1,626,446",
-      "marketCapValue": 1626446,
+      "marketCap": "$1,722,119",
+      "marketCapValue": 1722119,
       "quarter": "Jun/2026"
     },
     {
@@ -1853,8 +1453,8 @@
       "ticker": "HIFS",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$662,236,670",
-      "marketCapValue": 662236670,
+      "marketCap": "$657,662,720",
+      "marketCapValue": 657662720,
       "quarter": "Sep/2026"
     },
     {
@@ -1863,8 +1463,8 @@
       "ticker": "GLDG",
       "session": "미정",
       "eps": "($0.02)",
-      "marketCap": "$224,890,080",
-      "marketCapValue": 224890080,
+      "marketCap": "$217,347,264",
+      "marketCapValue": 217347264,
       "quarter": "Aug/2026"
     },
     {
@@ -1873,8 +1473,8 @@
       "ticker": "HOVR",
       "session": "미정",
       "eps": "($0.08)",
-      "marketCap": "$108,740,784",
-      "marketCapValue": 108740784,
+      "marketCap": "$112,096,984",
+      "marketCapValue": 112096984,
       "quarter": "Aug/2026"
     },
     {
@@ -1883,8 +1483,8 @@
       "ticker": "TKLF",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$7,301,547",
-      "marketCapValue": 7301547,
+      "marketCap": "$7,602,498",
+      "marketCapValue": 7602498,
       "quarter": "Jun/2026"
     },
     {
@@ -1893,8 +1493,8 @@
       "ticker": "AERO",
       "session": "미정",
       "eps": "$0.29",
-      "marketCap": "$2,217,731,840",
-      "marketCapValue": 2217731840,
+      "marketCap": "$2,159,370,500",
+      "marketCapValue": 2159370500,
       "quarter": "Sep/2026"
     },
     {
@@ -1903,8 +1503,8 @@
       "ticker": "RMCF",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$8,561,705",
-      "marketCapValue": 8561705,
+      "marketCap": "$8,118,045",
+      "marketCapValue": 8118045,
       "quarter": "Aug/2026"
     },
     {
@@ -1913,8 +1513,8 @@
       "ticker": "JPM",
       "session": "장전",
       "eps": "$5.84",
-      "marketCap": "$939,828,310,000",
-      "marketCapValue": 939828310000,
+      "marketCap": "$928,531,020,000",
+      "marketCapValue": 928531020000,
       "quarter": "Sep/2026"
     },
     {
@@ -1922,9 +1522,19 @@
       "company": "Johnson & Johnson",
       "ticker": "JNJ",
       "session": "장전",
-      "eps": "$2.95",
-      "marketCap": "$641,876,490,000",
-      "marketCapValue": 641876490000,
+      "eps": "$2.96",
+      "marketCap": "$651,202,790,000",
+      "marketCapValue": 651202790000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "session": "장전",
+      "eps": "$4.07",
+      "marketCap": "$336,786,555,000",
+      "marketCapValue": 336786555000,
       "quarter": "Sep/2026"
     },
     {
@@ -1933,18 +1543,8 @@
       "ticker": "GS",
       "session": "장전",
       "eps": "$15.62",
-      "marketCap": "$296,927,855,000",
-      "marketCapValue": 296927855000,
-      "quarter": "Sep/2026"
-    },
-    {
-      "date": "2026-10-13",
-      "company": "Wells Fargo & Company",
-      "ticker": "WFC",
-      "session": "미정",
-      "eps": "$1.84",
-      "marketCap": "$270,496,743,000",
-      "marketCapValue": 270496743000,
+      "marketCap": "$277,040,857,000",
+      "marketCapValue": 277040857000,
       "quarter": "Sep/2026"
     },
     {
@@ -1953,8 +1553,8 @@
       "ticker": "C",
       "session": "장전",
       "eps": "$2.67",
-      "marketCap": "$232,324,989,000",
-      "marketCapValue": 232324989000,
+      "marketCap": "$222,595,858,000",
+      "marketCapValue": 222595858000,
       "quarter": "Sep/2026"
     },
     {
@@ -1963,28 +1563,18 @@
       "ticker": "BLK",
       "session": "미정",
       "eps": "$14.24",
-      "marketCap": "$164,533,109,000",
-      "marketCapValue": 164533109000,
+      "marketCap": "$163,226,010,000",
+      "marketCapValue": 163226010000,
       "quarter": "Sep/2026"
     },
     {
       "date": "2026-10-13",
       "company": "Domino's Pizza Inc",
       "ticker": "DPZ",
-      "session": "미정",
+      "session": "장전",
       "eps": "$4.33",
-      "marketCap": "$10,496,834,600",
-      "marketCapValue": 10496834600,
-      "quarter": "Sep/2026"
-    },
-    {
-      "date": "2026-10-13",
-      "company": "Hancock Whitney Corporation",
-      "ticker": "HWC",
-      "session": "미정",
-      "eps": "$1.65",
-      "marketCap": "$5,968,595,500",
-      "marketCapValue": 5968595500,
+      "marketCap": "$9,846,778,900",
+      "marketCapValue": 9846778900,
       "quarter": "Sep/2026"
     },
     {
@@ -1993,9 +1583,19 @@
       "ticker": "ACI",
       "session": "미정",
       "eps": "$0.31",
-      "marketCap": "$5,678,310,400",
-      "marketCapValue": 5678310400,
+      "marketCap": "$6,095,690,800",
+      "marketCapValue": 6095690800,
       "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Hancock Whitney Corporation",
+      "ticker": "HWC",
+      "session": "미정",
+      "eps": "$1.65",
+      "marketCap": "$5,992,662,500",
+      "marketCapValue": 5992662500,
+      "quarter": "Sep/2026"
     },
     {
       "date": "2026-10-13",
@@ -2003,8 +1603,8 @@
       "ticker": "FBK",
       "session": "미정",
       "eps": "$1.21",
-      "marketCap": "$2,745,798,910",
-      "marketCapValue": 2745798910,
+      "marketCap": "$2,673,830,400",
+      "marketCapValue": 2673830400,
       "quarter": "Sep/2026"
     },
     {
@@ -2013,8 +1613,8 @@
       "ticker": "KARO",
       "session": "미정",
       "eps": "$0.57",
-      "marketCap": "$1,972,691,710",
-      "marketCapValue": 1972691710,
+      "marketCap": "$2,122,678,660",
+      "marketCapValue": 2122678660,
       "quarter": "Aug/2026"
     },
     {
@@ -2023,8 +1623,8 @@
       "ticker": "EQBK",
       "session": "미정",
       "eps": "$1.31",
-      "marketCap": "$1,027,565,250",
-      "marketCapValue": 1027565250,
+      "marketCap": "$1,010,885,310",
+      "marketCapValue": 1010885310,
       "quarter": "Sep/2026"
     },
     {
@@ -2033,8 +1633,8 @@
       "ticker": "UNTY",
       "session": "미정",
       "eps": "$1.50",
-      "marketCap": "$593,415,940",
-      "marketCapValue": 593415940,
+      "marketCap": "$590,503,620",
+      "marketCapValue": 590503620,
       "quarter": "Sep/2026"
     },
     {
@@ -2043,8 +1643,8 @@
       "ticker": "SOTK",
       "session": "미정",
       "eps": "$0.05",
-      "marketCap": "$70,882,424",
-      "marketCapValue": 70882424,
+      "marketCap": "$70,410,920",
+      "marketCapValue": 70410920,
       "quarter": "Aug/2026"
     },
     {
@@ -2063,38 +1663,8 @@
       "ticker": "FOXX",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$19,011,218",
-      "marketCapValue": 19011218,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-10-13",
-      "company": "FingerMotion, Inc.",
-      "ticker": "FNGR",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$13,988,061",
-      "marketCapValue": 13988061,
-      "quarter": "Aug/2026"
-    },
-    {
-      "date": "2026-10-13",
-      "company": "Quanome Technologies, Inc.",
-      "ticker": "QNME",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$11,188,957",
-      "marketCapValue": 11188957,
-      "quarter": "Jun/2026"
-    },
-    {
-      "date": "2026-10-13",
-      "company": "Singularity Future Technology Ltd.",
-      "ticker": "SGLY",
-      "session": "미정",
-      "eps": "—",
-      "marketCap": "$10,591,424",
-      "marketCapValue": 10591424,
+      "marketCap": "$17,250,920",
+      "marketCapValue": 17250920,
       "quarter": "Jun/2026"
     },
     {
@@ -2103,9 +1673,39 @@
       "ticker": "BMRA",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$10,233,399",
-      "marketCapValue": 10233399,
+      "marketCap": "$10,829,964",
+      "marketCapValue": 10829964,
       "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "FingerMotion, Inc.",
+      "ticker": "FNGR",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$10,701,619",
+      "marketCapValue": 10701619,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Quanome Technologies, Inc.",
+      "ticker": "QNME",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$9,997,763",
+      "marketCapValue": 9997763,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Singularity Future Technology Ltd.",
+      "ticker": "SGLY",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$6,160,318",
+      "marketCapValue": 6160318,
+      "quarter": "Jun/2026"
     },
     {
       "date": "2026-10-13",
@@ -2113,9 +1713,1569 @@
       "ticker": "TGL",
       "session": "미정",
       "eps": "—",
-      "marketCap": "$5,825,399",
-      "marketCapValue": 5825399,
+      "marketCap": "$4,320,179",
+      "marketCapValue": 4320179,
       "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "session": "장전",
+      "eps": "$12.54",
+      "marketCap": "$628,103,580,000",
+      "marketCapValue": 628103580000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Bank of America Corporation",
+      "ticker": "BAC",
+      "session": "장전",
+      "eps": "$1.16",
+      "marketCap": "$406,838,084,000",
+      "marketCapValue": 406838084000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Morgan Stanley",
+      "ticker": "MS",
+      "session": "장전",
+      "eps": "$3.06",
+      "marketCap": "$319,641,649,000",
+      "marketCapValue": 319641649000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "session": "장전",
+      "eps": "$1.84",
+      "marketCap": "$262,755,303,000",
+      "marketCapValue": 262755303000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Fastenal Company",
+      "ticker": "FAST",
+      "session": "장전",
+      "eps": "$0.34",
+      "marketCap": "$56,433,930,000",
+      "marketCapValue": 56433930000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Home BancShares, Inc.",
+      "ticker": "HOMB",
+      "session": "장후",
+      "eps": "$0.63",
+      "marketCap": "$5,953,477,100",
+      "marketCapValue": 5953477100,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "AZZ Inc.",
+      "ticker": "AZZ",
+      "session": "미정",
+      "eps": "$1.82",
+      "marketCap": "$4,016,683,520",
+      "marketCapValue": 4016683520,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Richardson Electronics, Ltd.",
+      "ticker": "RELL",
+      "session": "미정",
+      "eps": "$0.09",
+      "marketCap": "$247,935,152",
+      "marketCapValue": 247935152,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Resources Connection, Inc.",
+      "ticker": "RGP",
+      "session": "미정",
+      "eps": "($0.22)",
+      "marketCap": "$137,764,176",
+      "marketCapValue": 137764176,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Educational Development Corporation",
+      "ticker": "EDUC",
+      "session": "장후",
+      "eps": "—",
+      "marketCap": "$11,082,453",
+      "marketCapValue": 11082453,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Next Technology Holding Inc.",
+      "ticker": "NXTT",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$8,079,197",
+      "marketCapValue": 8079197,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "ticker": "TSM",
+      "session": "미정",
+      "eps": "$4.45",
+      "marketCap": "$2,231,545,630,000",
+      "marketCapValue": 2231545630000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "The Charles Schwab Corporation",
+      "ticker": "SCHW",
+      "session": "미정",
+      "eps": "$1.67",
+      "marketCap": "$180,940,390,000",
+      "marketCapValue": 180940390000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Prologis, Inc.",
+      "ticker": "PLD",
+      "session": "장전",
+      "eps": "$1.58",
+      "marketCap": "$128,160,915,000",
+      "marketCapValue": 128160915000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "The Bank Of New York Mellon Corporation ",
+      "ticker": "BNY",
+      "session": "미정",
+      "eps": "$2.25",
+      "marketCap": "$103,824,703,000",
+      "marketCapValue": 103824703000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "U.S. Bancorp",
+      "ticker": "USB",
+      "session": "장전",
+      "eps": "$1.32",
+      "marketCap": "$93,872,603,000",
+      "marketCapValue": 93872603000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "PNC Financial Services Group, Inc. (The)",
+      "ticker": "PNC",
+      "session": "장전",
+      "eps": "$4.98",
+      "marketCap": "$92,558,918,000",
+      "marketCapValue": 92558918000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "CSX Corporation",
+      "ticker": "CSX",
+      "session": "미정",
+      "eps": "$0.54",
+      "marketCap": "$88,733,549,000",
+      "marketCapValue": 88733549000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Marsh",
+      "ticker": "MRSH",
+      "session": "장전",
+      "eps": "$1.96",
+      "marketCap": "$83,311,542,000",
+      "marketCapValue": 83311542000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Infosys Limited",
+      "ticker": "INFY",
+      "session": "미정",
+      "eps": "$0.21",
+      "marketCap": "$44,903,907,000",
+      "marketCapValue": 44903907000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Interactive Brokers Group, Inc.",
+      "ticker": "IBKR",
+      "session": "미정",
+      "eps": "$0.67",
+      "marketCap": "$40,043,049,000",
+      "marketCapValue": 40043049000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Ericsson",
+      "ticker": "ERIC",
+      "session": "장전",
+      "eps": "$0.14",
+      "marketCap": "$34,691,211,000",
+      "marketCapValue": 34691211000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Snap-On Incorporated",
+      "ticker": "SNA",
+      "session": "미정",
+      "eps": "$4.92",
+      "marketCap": "$19,222,833,200",
+      "marketCapValue": 19222833200,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Wipro Limited",
+      "ticker": "WIT",
+      "session": "미정",
+      "eps": "$0.04",
+      "marketCap": "$16,637,963,300",
+      "marketCapValue": 16637963300,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Alcoa Corporation",
+      "ticker": "AA",
+      "session": "장후",
+      "eps": "$1.56",
+      "marketCap": "$12,395,826,200",
+      "marketCapValue": 12395826200,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Commercial Metals Company",
+      "ticker": "CMC",
+      "session": "미정",
+      "eps": "$1.97",
+      "marketCap": "$7,422,893,100",
+      "marketCapValue": 7422893100,
+      "quarter": "Aug/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "F.N.B. Corporation",
+      "ticker": "FNB",
+      "session": "미정",
+      "eps": "$0.43",
+      "marketCap": "$6,368,137,700",
+      "marketCapValue": 6368137700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Glacier Bancorp, Inc.",
+      "ticker": "GBCI",
+      "session": "미정",
+      "eps": "$0.80",
+      "marketCap": "$5,823,078,400",
+      "marketCapValue": 5823078400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Bank OZK",
+      "ticker": "OZK",
+      "session": "미정",
+      "eps": "$1.45",
+      "marketCap": "$5,412,432,400",
+      "marketCapValue": 5412432400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Independent Bank Corp.",
+      "ticker": "INDB",
+      "session": "미정",
+      "eps": "$1.81",
+      "marketCap": "$3,904,161,020",
+      "marketCapValue": 3904161020,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Cohen & Steers Inc",
+      "ticker": "CNS",
+      "session": "미정",
+      "eps": "$0.89",
+      "marketCap": "$3,744,516,100",
+      "marketCapValue": 3744516100,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Simmons First National Corporation",
+      "ticker": "SFNC",
+      "session": "미정",
+      "eps": "$0.54",
+      "marketCap": "$3,305,752,830",
+      "marketCapValue": 3305752830,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Liberty Energy Inc.",
+      "ticker": "LBRT",
+      "session": "미정",
+      "eps": "$0.10",
+      "marketCap": "$3,118,587,900",
+      "marketCapValue": 3118587900,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "ManpowerGroup",
+      "ticker": "MAN",
+      "session": "미정",
+      "eps": "$1.01",
+      "marketCap": "$2,681,976,320",
+      "marketCapValue": 2681976320,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "WaFd, Inc.",
+      "ticker": "WAFD",
+      "session": "미정",
+      "eps": "$0.84",
+      "marketCap": "$2,407,804,930",
+      "marketCapValue": 2407804930,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Westamerica Bancorporation",
+      "ticker": "WABC",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$1,394,064,770",
+      "marketCapValue": 1394064770,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Community West Bancshares",
+      "ticker": "CWBC",
+      "session": "미정",
+      "eps": "$0.65",
+      "marketCap": "$705,679,360",
+      "marketCapValue": 705679360,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Insteel Industries, Inc.",
+      "ticker": "IIIN",
+      "session": "미정",
+      "eps": "$0.47",
+      "marketCap": "$582,296,060",
+      "marketCapValue": 582296060,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "REalloys Inc.",
+      "ticker": "ALOY",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$572,706,180",
+      "marketCapValue": 572706180,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Pulmatrix, Inc.",
+      "ticker": "PULM",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$5,233,359",
+      "marketCapValue": 5233359,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "HDFC Bank Limited",
+      "ticker": "HDB",
+      "session": "미정",
+      "eps": "$0.40",
+      "marketCap": "$116,271,243,000",
+      "marketCapValue": 116271243000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "ICICI Bank Limited",
+      "ticker": "IBN",
+      "session": "미정",
+      "eps": "$0.40",
+      "marketCap": "$100,885,987,000",
+      "marketCapValue": 100885987000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "The Travelers Companies, Inc.",
+      "ticker": "TRV",
+      "session": "장전",
+      "eps": "$6.77",
+      "marketCap": "$79,152,136,000",
+      "marketCapValue": 79152136000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "SLB Limited",
+      "ticker": "SLB",
+      "session": "미정",
+      "eps": "$0.62",
+      "marketCap": "$77,294,182,000",
+      "marketCapValue": 77294182000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "session": "장전",
+      "eps": "$1.11",
+      "marketCap": "$59,187,790,000",
+      "marketCapValue": 59187790000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "State Street Corporation",
+      "ticker": "STT",
+      "session": "미정",
+      "eps": "$3.60",
+      "marketCap": "$50,289,652,000",
+      "marketCapValue": 50289652000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "M&T Bank Corporation",
+      "ticker": "MTB",
+      "session": "장전",
+      "eps": "$4.98",
+      "marketCap": "$32,690,065,400",
+      "marketCapValue": 32690065400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Citizens Financial Group, Inc.",
+      "ticker": "CFG",
+      "session": "장전",
+      "eps": "$1.40",
+      "marketCap": "$28,383,103,000",
+      "marketCapValue": 28383103000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Regions Financial Corporation",
+      "ticker": "RF",
+      "session": "장전",
+      "eps": "$0.67",
+      "marketCap": "$24,262,953,000",
+      "marketCapValue": 24262953000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "BancFirst Corporation",
+      "ticker": "BANF",
+      "session": "미정",
+      "eps": "$1.93",
+      "marketCap": "$3,661,255,170",
+      "marketCapValue": 3661255170,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "BitVentures Limited",
+      "ticker": "BVC",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$2,273,039,870",
+      "marketCapValue": 2273039870,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Republic Bancorp, Inc.",
+      "ticker": "RBCAA",
+      "session": "미정",
+      "eps": "$1.66",
+      "marketCap": "$1,841,879,680",
+      "marketCapValue": 1841879680,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "MetroCity Bankshares, Inc.",
+      "ticker": "MCBS",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$1,003,313,660",
+      "marketCapValue": 1003313660,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Private Bancorp of America, Inc.",
+      "ticker": "PBAM",
+      "session": "미정",
+      "eps": "$2.09",
+      "marketCap": "$518,316,608",
+      "marketCapValue": 518316608,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Ames National Corporation",
+      "ticker": "ATLO",
+      "session": "미정",
+      "eps": "$0.68",
+      "marketCap": "$286,176,768",
+      "marketCapValue": 286176768,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "BV Financial, Inc.",
+      "ticker": "BVFL",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$175,680,320",
+      "marketCapValue": 175680320,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "CLPS Incorporation",
+      "ticker": "CLPS",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$30,040,888",
+      "marketCapValue": 30040888,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "Dogness (International) Corporation",
+      "ticker": "DOGZ",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$15,506,179",
+      "marketCapValue": 15506179,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-16",
+      "company": "CCSC Technology International Holdings Limited",
+      "ticker": "CCTG",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$6,925,895",
+      "marketCapValue": 6925895,
+      "quarter": "Jun/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Fifth Third Bancorp",
+      "ticker": "FITB",
+      "session": "장전",
+      "eps": "$1.08",
+      "marketCap": "$48,310,166,000",
+      "marketCapValue": 48310166000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "session": "미정",
+      "eps": "$5.87",
+      "marketCap": "$35,165,544,000",
+      "marketCapValue": 35165544000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "W.R. Berkley Corporation",
+      "ticker": "WRB",
+      "session": "미정",
+      "eps": "$1.13",
+      "marketCap": "$26,023,049,200",
+      "marketCapValue": 26023049200,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Summit Therapeutics Inc. ",
+      "ticker": "SMMT",
+      "session": "미정",
+      "eps": "($0.28)",
+      "marketCap": "$14,136,123,400",
+      "marketCapValue": 14136123400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Crown Holdings, Inc.",
+      "ticker": "CCK",
+      "session": "미정",
+      "eps": "$2.25",
+      "marketCap": "$12,024,561,700",
+      "marketCapValue": 12024561700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Grupo Aeroportuario Del Pacifico, S.A. de C.V.",
+      "ticker": "PAC",
+      "session": "미정",
+      "eps": "$2.68",
+      "marketCap": "$11,874,183,200",
+      "marketCapValue": 11874183200,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "AGNC Investment Corp.",
+      "ticker": "AGNC",
+      "session": "미정",
+      "eps": "$0.39",
+      "marketCap": "$11,748,121,600",
+      "marketCapValue": 11748121600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "BrightSpring Health Services, Inc.",
+      "ticker": "BTSG",
+      "session": "미정",
+      "eps": "$0.46",
+      "marketCap": "$11,199,116,300",
+      "marketCapValue": 11199116300,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Wintrust Financial Corporation",
+      "ticker": "WTFC",
+      "session": "미정",
+      "eps": "$3.24",
+      "marketCap": "$9,980,914,700",
+      "marketCapValue": 9980914700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Zions Bancorporation N.A.",
+      "ticker": "ZION",
+      "session": "장후",
+      "eps": "$1.62",
+      "marketCap": "$9,589,135,400",
+      "marketCapValue": 9589135400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "BOK Financial Corporation",
+      "ticker": "BOKF",
+      "session": "장후",
+      "eps": "$2.54",
+      "marketCap": "$8,083,208,700",
+      "marketCapValue": 8083208700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Cleveland-Cliffs Inc.",
+      "ticker": "CLF",
+      "session": "미정",
+      "eps": "$0.24",
+      "marketCap": "$7,280,091,100",
+      "marketCapValue": 7280091100,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "RLI Corp.",
+      "ticker": "RLI",
+      "session": "미정",
+      "eps": "$0.54",
+      "marketCap": "$5,545,840,600",
+      "marketCapValue": 5545840600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "ServisFirst Bancshares, Inc.",
+      "ticker": "SFBS",
+      "session": "미정",
+      "eps": "$0.82",
+      "marketCap": "$4,477,678,600",
+      "marketCapValue": 4477678600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Dynex Capital, Inc.",
+      "ticker": "DX",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$3,049,971,460",
+      "marketCapValue": 3049971460,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Preferred Bank",
+      "ticker": "PFBC",
+      "session": "미정",
+      "eps": "$2.68",
+      "marketCap": "$1,519,657,730",
+      "marketCapValue": 1519657730,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "HBT Financial, Inc.",
+      "ticker": "HBT",
+      "session": "미정",
+      "eps": "$0.78",
+      "marketCap": "$1,312,071,300",
+      "marketCapValue": 1312071300,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Columbia Financial, Inc.",
+      "ticker": "CLBK",
+      "session": "미정",
+      "eps": "$0.13",
+      "marketCap": "$1,201,748,220",
+      "marketCapValue": 1201748220,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Washington Trust Bancorp, Inc.",
+      "ticker": "WASH",
+      "session": "미정",
+      "eps": "$0.87",
+      "marketCap": "$751,528,260",
+      "marketCapValue": 751528260,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Home Bancorp, Inc.",
+      "ticker": "HBCP",
+      "session": "미정",
+      "eps": "$1.51",
+      "marketCap": "$539,933,440",
+      "marketCapValue": 539933440,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "RBB Bancorp",
+      "ticker": "RBB",
+      "session": "미정",
+      "eps": "$0.57",
+      "marketCap": "$451,317,920",
+      "marketCapValue": 451317920,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Investar Holding Corporation",
+      "ticker": "ISTR",
+      "session": "미정",
+      "eps": "$0.75",
+      "marketCap": "$417,030,592",
+      "marketCapValue": 417030592,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "CoastalSouth Bancshares, Inc.",
+      "ticker": "COSO",
+      "session": "미정",
+      "eps": "$0.62",
+      "marketCap": "$325,758,656",
+      "marketCapValue": 325758656,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Flexsteel Industries, Inc.",
+      "ticker": "FLXS",
+      "session": "미정",
+      "eps": "$1.25",
+      "marketCap": "$325,129,728",
+      "marketCapValue": 325129728,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "First United Corporation",
+      "ticker": "FUNC",
+      "session": "미정",
+      "eps": "$1.16",
+      "marketCap": "$281,968,096",
+      "marketCapValue": 281968096,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "Peoples Bancorp of North Carolina, Inc.",
+      "ticker": "PEBK",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$240,087,104",
+      "marketCapValue": 240087104,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Coca-Cola Company (The)",
+      "ticker": "KO",
+      "session": "미정",
+      "eps": "$0.87",
+      "marketCap": "$378,882,490,000",
+      "marketCapValue": 378882490000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "GE Aerospace",
+      "ticker": "GE",
+      "session": "미정",
+      "eps": "$2.01",
+      "marketCap": "$325,244,715,000",
+      "marketCapValue": 325244715000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "session": "장후",
+      "eps": "$0.82",
+      "marketCap": "$313,586,287,000",
+      "marketCapValue": 313586287000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Philip Morris International Inc",
+      "ticker": "PM",
+      "session": "미정",
+      "eps": "$2.34",
+      "marketCap": "$296,884,699,000",
+      "marketCapValue": 296884699000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "RTX Corporation",
+      "ticker": "RTX",
+      "session": "미정",
+      "eps": "$1.75",
+      "marketCap": "$260,845,109,000",
+      "marketCapValue": 260845109000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "session": "미정",
+      "eps": "$2.39",
+      "marketCap": "$235,745,755,000",
+      "marketCapValue": 235745755000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Danaher Corporation",
+      "ticker": "DHR",
+      "session": "미정",
+      "eps": "$1.96",
+      "marketCap": "$149,384,544,000",
+      "marketCapValue": 149384544000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Intuitive Surgical, Inc.",
+      "ticker": "ISRG",
+      "session": "미정",
+      "eps": "$2.13",
+      "marketCap": "$135,496,262,000",
+      "marketCapValue": 135496262000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Chubb Limited",
+      "ticker": "CB",
+      "session": "미정",
+      "eps": "$6.22",
+      "marketCap": "$131,904,971,000",
+      "marketCapValue": 131904971000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "session": "미정",
+      "eps": "$7.25",
+      "marketCap": "$124,186,198,000",
+      "marketCapValue": 124186198000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Capital One Financial Corporation",
+      "ticker": "COF",
+      "session": "미정",
+      "eps": "$5.40",
+      "marketCap": "$123,948,474,000",
+      "marketCapValue": 123948474000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Elevance Health, Inc.",
+      "ticker": "ELV",
+      "session": "미정",
+      "eps": "$4.72",
+      "marketCap": "$89,840,271,000",
+      "marketCapValue": 89840271000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "3M Company",
+      "ticker": "MMM",
+      "session": "미정",
+      "eps": "$2.40",
+      "marketCap": "$84,944,642,000",
+      "marketCapValue": 84944642000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "General Motors Company",
+      "ticker": "GM",
+      "session": "미정",
+      "eps": "$3.37",
+      "marketCap": "$76,004,852,000",
+      "marketCapValue": 76004852000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "session": "장전",
+      "eps": "$7.26",
+      "marketCap": "$74,441,023,000",
+      "marketCapValue": 74441023000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "session": "미정",
+      "eps": "$1.61",
+      "marketCap": "$61,774,193,000",
+      "marketCapValue": 61774193000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Nasdaq, Inc.",
+      "ticker": "NDAQ",
+      "session": "미정",
+      "eps": "$1.02",
+      "marketCap": "$51,040,223,000",
+      "marketCapValue": 51040223000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "MSCI Inc.",
+      "ticker": "MSCI",
+      "session": "장전",
+      "eps": "$5.01",
+      "marketCap": "$39,946,469,000",
+      "marketCapValue": 39946469000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Waste Connections, Inc.",
+      "ticker": "WCN",
+      "session": "미정",
+      "eps": "$1.51",
+      "marketCap": "$39,605,879,000",
+      "marketCapValue": 39605879000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "EQT Corporation",
+      "ticker": "EQT",
+      "session": "미정",
+      "eps": "$0.45",
+      "marketCap": "$31,494,729,700",
+      "marketCapValue": 31494729700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Halliburton Company",
+      "ticker": "HAL",
+      "session": "장전",
+      "eps": "$0.58",
+      "marketCap": "$28,351,426,600",
+      "marketCapValue": 28351426600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Quest Diagnostics Incorporated",
+      "ticker": "DGX",
+      "session": "미정",
+      "eps": "$2.85",
+      "marketCap": "$27,311,888,400",
+      "marketCapValue": 27311888400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "KeyCorp",
+      "ticker": "KEY",
+      "session": "장전",
+      "eps": "$0.46",
+      "marketCap": "$22,356,342,800",
+      "marketCapValue": 22356342800,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Omnicom Group Inc.",
+      "ticker": "OMC",
+      "session": "미정",
+      "eps": "$2.68",
+      "marketCap": "$21,563,592,700",
+      "marketCapValue": 21563592700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Equifax, Inc.",
+      "ticker": "EFX",
+      "session": "미정",
+      "eps": "$2.21",
+      "marketCap": "$18,935,040,000",
+      "marketCapValue": 18935040000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Genuine Parts Company",
+      "ticker": "GPC",
+      "session": "미정",
+      "eps": "$2.10",
+      "marketCap": "$18,043,084,800",
+      "marketCapValue": 18043084800,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "East West Bancorp, Inc.",
+      "ticker": "EWBC",
+      "session": "장후",
+      "eps": "$2.68",
+      "marketCap": "$17,234,720,800",
+      "marketCapValue": 17234720800,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Mueller Industries, Inc.",
+      "ticker": "MLI",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$13,343,873,000",
+      "marketCapValue": 13343873000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Ally Financial Inc.",
+      "ticker": "ALLY",
+      "session": "장전",
+      "eps": "$1.43",
+      "marketCap": "$12,350,508,000",
+      "marketCapValue": 12350508000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Manhattan Associates, Inc.",
+      "ticker": "MANH",
+      "session": "미정",
+      "eps": "$1.03",
+      "marketCap": "$12,291,854,300",
+      "marketCapValue": 12291854300,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Vicor Corporation",
+      "ticker": "VICR",
+      "session": "미정",
+      "eps": "$0.75",
+      "marketCap": "$9,977,035,800",
+      "marketCapValue": 9977035800,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Valmont Industries, Inc.",
+      "ticker": "VMI",
+      "session": "미정",
+      "eps": "$5.72",
+      "marketCap": "$9,120,194,600",
+      "marketCapValue": 9120194600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Pentair plc.",
+      "ticker": "PNR",
+      "session": "미정",
+      "eps": "$1.08",
+      "marketCap": "$8,895,026,200",
+      "marketCapValue": 8895026200,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Galaxy Digital Inc.",
+      "ticker": "GLXY",
+      "session": "미정",
+      "eps": "($0.12)",
+      "marketCap": "$8,709,009,400",
+      "marketCapValue": 8709009400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Western Alliance Bancorporation",
+      "ticker": "WAL",
+      "session": "미정",
+      "eps": "$2.49",
+      "marketCap": "$8,665,881,600",
+      "marketCapValue": 8665881600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Agree Realty Corporation",
+      "ticker": "ADC",
+      "session": "미정",
+      "eps": "$1.11",
+      "marketCap": "$8,477,694,000",
+      "marketCapValue": 8477694000,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Commerce Bancshares, Inc.",
+      "ticker": "CBSH",
+      "session": "장전",
+      "eps": "$1.08",
+      "marketCap": "$8,240,178,700",
+      "marketCapValue": 8240178700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Matador Resources Company",
+      "ticker": "MTDR",
+      "session": "미정",
+      "eps": "$1.65",
+      "marketCap": "$7,136,905,700",
+      "marketCapValue": 7136905700,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "GATX Corporation",
+      "ticker": "GATX",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$6,364,236,800",
+      "marketCapValue": 6364236800,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Pegasystems Inc.",
+      "ticker": "PEGA",
+      "session": "미정",
+      "eps": "$0.28",
+      "marketCap": "$5,930,086,400",
+      "marketCapValue": 5930086400,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Weatherford International plc",
+      "ticker": "WFRD",
+      "session": "미정",
+      "eps": "$1.20",
+      "marketCap": "$5,867,568,100",
+      "marketCapValue": 5867568100,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Balchem Corporation",
+      "ticker": "BCPC",
+      "session": "미정",
+      "eps": "$1.53",
+      "marketCap": "$5,284,100,600",
+      "marketCapValue": 5284100600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Fulton Financial Corporation",
+      "ticker": "FULT",
+      "session": "미정",
+      "eps": "$0.55",
+      "marketCap": "$4,465,491,500",
+      "marketCapValue": 4465491500,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Cathay General Bancorp",
+      "ticker": "CATY",
+      "session": "미정",
+      "eps": "$1.43",
+      "marketCap": "$4,137,591,040",
+      "marketCapValue": 4137591040,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Mattel, Inc.",
+      "ticker": "MAT",
+      "session": "미정",
+      "eps": "$0.93",
+      "marketCap": "$3,802,667,010",
+      "marketCapValue": 3802667010,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Badger Meter, Inc.",
+      "ticker": "BMI",
+      "session": "미정",
+      "eps": "$1.21",
+      "marketCap": "$3,699,301,380",
+      "marketCapValue": 3699301380,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "PennyMac Financial Services, Inc.",
+      "ticker": "PFSI",
+      "session": "미정",
+      "eps": "$1.79",
+      "marketCap": "$3,455,299,070",
+      "marketCapValue": 3455299070,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Monarch Casino & Resort, Inc.",
+      "ticker": "MCRI",
+      "session": "미정",
+      "eps": "$1.91",
+      "marketCap": "$2,197,480,190",
+      "marketCapValue": 2197480190,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "National Bank Holdings Corporation",
+      "ticker": "NBHC",
+      "session": "미정",
+      "eps": "$0.87",
+      "marketCap": "$1,832,356,990",
+      "marketCapValue": 1832356990,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Bank First Corporation",
+      "ticker": "BFC",
+      "session": "미정",
+      "eps": "$2.63",
+      "marketCap": "$1,686,120,830",
+      "marketCapValue": 1686120830,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Pathward Financial, Inc.",
+      "ticker": "CASH",
+      "session": "미정",
+      "eps": "$1.63",
+      "marketCap": "$1,609,520,130",
+      "marketCapValue": 1609520130,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Peoples Bancorp Inc.",
+      "ticker": "PEBO",
+      "session": "미정",
+      "eps": "$0.92",
+      "marketCap": "$1,419,002,620",
+      "marketCapValue": 1419002620,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Mercantile Bank Corporation",
+      "ticker": "MBWM",
+      "session": "미정",
+      "eps": "$1.35",
+      "marketCap": "$1,043,724,420",
+      "marketCapValue": 1043724420,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "TrustCo Bank Corp NY",
+      "ticker": "TRST",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$958,150,910",
+      "marketCapValue": 958150910,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Hanmi Financial Corporation",
+      "ticker": "HAFC",
+      "session": "미정",
+      "eps": "$0.81",
+      "marketCap": "$955,595,520",
+      "marketCapValue": 955595520,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "SmartFinancial, Inc.",
+      "ticker": "SMBK",
+      "session": "미정",
+      "eps": "$0.96",
+      "marketCap": "$888,265,660",
+      "marketCapValue": 888265660,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Capital City Bank Group",
+      "ticker": "CCBG",
+      "session": "미정",
+      "eps": "$0.95",
+      "marketCap": "$858,916,350",
+      "marketCapValue": 858916350,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Orrstown Financial Services, Inc.",
+      "ticker": "ORRF",
+      "session": "미정",
+      "eps": "$1.10",
+      "marketCap": "$823,173,820",
+      "marketCapValue": 823173820,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "PennyMac Mortgage Investment Trust",
+      "ticker": "PMT",
+      "session": "미정",
+      "eps": "$0.30",
+      "marketCap": "$779,589,120",
+      "marketCapValue": 779589120,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Bar Harbor Bankshares, Inc.",
+      "ticker": "BHB",
+      "session": "미정",
+      "eps": "$0.93",
+      "marketCap": "$676,343,680",
+      "marketCapValue": 676343680,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "West Coast Community Bancorp",
+      "ticker": "WCCB",
+      "session": "미정",
+      "eps": "$1.35",
+      "marketCap": "$626,182,910",
+      "marketCapValue": 626182910,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Greene County Bancorp, Inc.",
+      "ticker": "GCBC",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$605,937,020",
+      "marketCapValue": 605937020,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Bridgewater Bancshares, Inc.",
+      "ticker": "BWB",
+      "session": "미정",
+      "eps": "$0.47",
+      "marketCap": "$582,493,060",
+      "marketCapValue": 582493060,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Northpointe Bancshares, Inc.",
+      "ticker": "NPB",
+      "session": "미정",
+      "eps": "$0.62",
+      "marketCap": "$577,170,940",
+      "marketCapValue": 577170940,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "KKR Real Estate Finance Trust Inc.",
+      "ticker": "KREF",
+      "session": "미정",
+      "eps": "$0.02",
+      "marketCap": "$399,501,600",
+      "marketCapValue": 399501600,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Chemung Financial Corp",
+      "ticker": "CHMG",
+      "session": "미정",
+      "eps": "$1.94",
+      "marketCap": "$398,615,200",
+      "marketCapValue": 398615200,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "FS Bancorp, Inc.",
+      "ticker": "FSBW",
+      "session": "미정",
+      "eps": "$1.11",
+      "marketCap": "$348,607,648",
+      "marketCapValue": 348607648,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "FVCBankcorp, Inc.",
+      "ticker": "FVCB",
+      "session": "미정",
+      "eps": "$0.39",
+      "marketCap": "$327,140,480",
+      "marketCapValue": 327140480,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "Acme United Corporation.",
+      "ticker": "ACU",
+      "session": "미정",
+      "eps": "$0.71",
+      "marketCap": "$237,466,992",
+      "marketCapValue": 237466992,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "AmeriServ Financial Inc.",
+      "ticker": "ASRV",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$79,802,552",
+      "marketCapValue": 79802552,
+      "quarter": "Sep/2026"
+    },
+    {
+      "date": "2026-10-20",
+      "company": "HWH International Inc.",
+      "ticker": "HWH",
+      "session": "미정",
+      "eps": "—",
+      "marketCap": "$63,911,760",
+      "marketCapValue": 63911760,
+      "quarter": "Sep/2026"
     }
   ]
 }
