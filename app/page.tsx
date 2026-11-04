@@ -8,6 +8,7 @@ type JapanItem={date:string;weekday:string;company:string;code:string;sector:str
 type CalendarItem={id:string;date:string;country:"미국"|"일본";company:string;code:string;time:string;detail:string;marketCapValue:number;featured:boolean};
 const us=usData.items as UsItem[];
 const jp=japanData.rows as JapanItem[];
+const japanEnd=jp.map(x=>x.date).sort().at(-1) || "";
 const DAY=86400000;
 const iso=(d:Date)=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
 const fromIso=(s:string)=>new Date(`${s}T12:00:00`);
@@ -23,6 +24,8 @@ const firstMonday=(()=>{const d=fromIso(rangeStart),day=d.getDay();d.setDate(d.g
 const weekCount=Math.max(1,Math.ceil((fromIso(rangeEnd).getTime()-fromIso(firstMonday).getTime()+DAY)/(7*DAY)));
 
 export default function Home(){
+ const [todayKst,setTodayKst]=useState("");
+ useEffect(()=>setTodayKst(new Intl.DateTimeFormat("sv-SE",{timeZone:"Asia/Seoul"}).format(new Date())),[]);
  const [theme,setTheme]=useState<"light"|"dark">("light");
  const [week,setWeek]=useState(0),[market,setMarket]=useState<"전체"|"미국"|"일본">("전체"),[query,setQuery]=useState("");
  useEffect(()=>{
@@ -48,9 +51,11 @@ export default function Home(){
   weekItems.filter(x=>x.date===date&&x.country==="일본"&&x.featured).forEach(x=>primaryIds.add(x.id));
  }
  const secondary=weekItems.filter(x=>!primaryIds.has(x.id));
- const updated=new Intl.DateTimeFormat("ko-KR",{month:"long",day:"numeric",hour:"2-digit",minute:"2-digit",timeZone:"Asia/Seoul"}).format(new Date(usData.updatedAt));
+ const updated=new Date(new Date(usData.updatedAt).getTime()+9*3600000).toISOString().slice(0,16).replace("T"," ")+" KST";
  return <main>
   <header className="header"><div><h1>실적 발표 캘린더</h1><p>미국 · 일본</p></div><div className="header-meta"><span>데이터 기준 {updated}</span><div className="header-actions"><a href="https://github.com/minguisstockgoat/earnings-week/actions/workflows/refresh-data.yml" target="_blank" rel="noreferrer">데이터 갱신</a><button className="theme-toggle" type="button" onClick={()=>setTheme(x=>x==="light"?"dark":"light")} aria-label={`${theme==="light"?"다크":"라이트"} 테마로 전환`} aria-pressed={theme==="dark"}>{theme==="light"?"다크 모드":"라이트 모드"}</button></div></div></header>
+  {todayKst && japanEnd<todayKst && <aside role="status" style={{padding:"14px 18px",marginBottom:16,border:"1px solid #b78a46",borderRadius:10,lineHeight:1.7}}>일본 일정은 {japanEnd}까지의 과거 자료이며 자동 갱신되지 않습니다. 현재 일본 일정이 비어 있어도 발표가 없다는 뜻은 아닙니다.</aside>}
+  {todayKst && usData.rangeEnd<todayKst && <aside role="alert">미국 일정 자료 기간이 만료되었습니다. 최근 데이터 배포를 확인하세요.</aside>}
   <section className="controls" aria-label="캘린더 조작"><button onClick={()=>setWeek(x=>Math.max(0,x-1))} disabled={week===0}>← 이전 주</button><div className="week-title"><strong>{short(start)} – {short(end)}</strong><span>{weekItems.length.toLocaleString()}개 일정</span></div><button onClick={()=>setWeek(x=>Math.min(weekCount-1,x+1))} disabled={week>=weekCount-1}>다음 주 →</button></section>
   <section className="filter-row"><div className="segments">{(["전체","미국","일본"] as const).map(x=><button key={x} className={market===x?"selected":""} onClick={()=>setMarket(x)}>{x}</button>)}</div><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="기업명 또는 종목코드 검색" aria-label="기업 검색"/></section>
   <section className="calendar" aria-label={`${short(start)}부터 ${short(end)}까지 주요 일정`}>{dates.map((date,i)=>{const primary=weekItems.filter(x=>x.date===date&&primaryIds.has(x.id));return <article className="day" key={date}><div className="day-head"><b>{weekdays[i]}</b><span>{short(date)}</span></div><div className="primary-list">{primary.map(x=><div className={`primary-item ${x.country==="일본"?"jp":""}`} key={x.id}><div className="item-top"><span className="country">{x.country}</span><code>{x.code}</code></div><strong>{x.company}</strong><div className="item-bottom"><span>{x.time}</span><span>{x.detail}</span></div></div>)}{primary.length===0&&<p className="empty">주요 일정 없음</p>}</div></article>})}</section>
